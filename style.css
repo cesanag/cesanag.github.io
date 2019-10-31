@@ -7,7 +7,53 @@
 .codeFont {
     font-family: 'Fira Code', monospace;
 }
+/*
+.randomFont {
+    
+    animation:random-font 5s infinite;
+}
 
+
+@keyframes random-font{
+    0% {
+        font-family: 'Noto Sans JP', sans-serif;  
+    }
+    10% {
+        font-family: 'Fira Code', monospace;
+    }
+    20% {
+        font-family: 'Nunito', sans-serif;
+    }
+    30%{
+        font-family: 'Fira Code', monospace; 
+    }
+    40%{
+        font-family: 'Noto Sans JP', sans-serif; 
+    }
+    40%{
+        font-family: 'Fira Code', monospace;
+    }
+    50% {
+        font-family: 'Nunito', sans-serif;
+    }
+    60% {
+        font-family: 'Fira Code', monospace;
+    }
+    70% {
+        font-family: 'Noto Sans TC', sans-serif;
+    }
+    80%{
+        font-family: 'Fira Code', monospace; 
+    }
+    90%{
+        font-family: 'Nunito', sans-serif;
+    }
+    100%{
+        font-family: 'Fira Code', monospace;
+    }
+     
+}
+*/
 .nav {
     display: flex;
     flex-direction: row;
@@ -34,6 +80,7 @@
 }
 
 .video-container{
+    opacity:0.9;
     top:0;
     margin: auto;
     text-align: center;
@@ -41,7 +88,11 @@
     justify-content: center;
 
 }
-
+.video-container:hover {
+    opacity:1;
+    
+    
+}
 .img-container{
     display: flex;
     justify-content: center;
@@ -77,6 +128,7 @@
     width: 100%;
     height: 20rem;
     object-fit: cover;
+    
 }
 .link-container {
     position: absolute;
@@ -89,6 +141,8 @@
     margin:auto;
 
 }
+
+
 
 .other-container {
     background-color:rgb(243, 243, 243);
@@ -112,6 +166,11 @@
     margin:auto;
     align-self: center;
 }
+
+.link-box:hover{
+    cursor:pointer;
+    animation: box-fillin 1s, button-move ease-in-out 1s infinite;
+  }
 .link-box{
     height: 6rem;
     width: 20rem;
@@ -126,14 +185,12 @@
     background-color: white;
     border-radius: 1.5rem;  
     position:relative;
-    
+    box-shadow:0vw 0vw 2vw 1vw rgba(0, 0, 0, 0.096);
     
 }
 
-  .link-box:hover{
+  
 
-    animation: box-fillin 1s;
-}
 @keyframes box-fillin {
     0% {
         background-color: rgb(0, 0, 0);
@@ -141,15 +198,25 @@
         opacity:1;
     }
     
-50% {
-    background-color: rgb(255, 255, 255);
-}
+    50% {
+        background-color: rgb(255, 255, 255);
+    }
     100% {
-        
-        box-shadow:0vw 0vw 0vw 50rem rgba(255, 255, 255, 0);
+        box-shadow:0vw 0vw 0vw 30rem rgba(255, 255, 255, 0);
         
     }
 
+}
+@keyframes button-move {
+    0%{
+        transform:scale(1);
+    }
+    50%{
+        transform:scale(1.1);
+    }
+    100%{
+        transform:scale(1);
+    }
 }
 
 
@@ -180,7 +247,11 @@
     z-index: 2;
     text-transform: uppercase;
 }
+.black-under {
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.541);
+ 
 
+}
 .text-websites {
     margin:1rem;
     font-size:1rem;
