@@ -5,7 +5,14 @@
 }
 
 .codeFont {
-    font-family: 'Fira Code', monospace;
+    font-family: 'Nunito', sans-serif;
+    /*font-family: 'Fira Code', monospace;*/
+}
+
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
 }
 /*
 .randomFont {
@@ -142,16 +149,14 @@
 
 }
 
-
-
 .other-container {
-    background-color:rgb(243, 243, 243);
-    
+    /*background-color:rgb(243, 243, 243);*/
+    background-color:black;
     display:flex;
     flex-direction:column;
     text-align: center;
-    
-    margin:auto;
+    color: white;
+    margin: 2rem;
     align-self: center;
 }
 
