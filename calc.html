@@ -41,10 +41,6 @@
             align-items: center;
         }
         
-        p {
-            color: grey;
-        }
-        
         </style>
 </head>
 <body>
@@ -71,27 +67,20 @@
             check4 = document.getElementById('product4')
             if (checker.checked === true) {
                 check0.removeAttribute('disabled')
+                check0.checked = true
                 check1.removeAttribute('disabled')
                 check2.removeAttribute('disabled')
                 check3.removeAttribute('disabled')
                 check4.removeAttribute('disabled')
-                check0.parentNode.children[1].style.color="black"
-                check1.parentNode.children[1].style.color="black"
-                check2.parentNode.children[1].style.color="black"
-                check3.parentNode.children[1].style.color="black"
-                check4.parentNode.children[1].style.color="black"
+
 
             } else {
+                check0.checked = false
                 check0.disabled = true
                 check1.disabled = true
                 check2.disabled = true
                 check3.disabled = true
                 check4.disabled = true
-                check0.parentNode.children[1].style.color="grey"
-                check1.parentNode.children[1].style.color="grey"
-                check2.parentNode.children[1].style.color="grey"
-                check3.parentNode.children[1].style.color="grey"
-                check4.parentNode.children[1].style.color="grey"
             } 
         }
 
