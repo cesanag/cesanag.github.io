@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <script>
+        function checkTotal() {
+            document.listForm.total.value = '0';
+            let sum = 0;
+            for (i=0;i<document.listForm.choice.length;i++) {
+              if (document.listForm.choice[i].checked) {
+                  sum = sum + parseInt(document.listForm.choice[i].value);
+              } else {
+              }
+            }
+            document.listForm.total.value = sum;
+        }
+
+        function enableCheckbox() {
+            checkTotal() 
+            let checker = document.getElementById('shopCheck');
+            check0 = document.getElementById('product0')
+            check1 = document.getElementById('product1')
+            check2 = document.getElementById('product2')
+            check3 = document.getElementById('product3')
+            check4 = document.getElementById('product4')
+            if (checker.checked === true) {
+                check0.removeAttribute('disabled')
+                check1.removeAttribute('disabled')
+                check2.removeAttribute('disabled')
+                check3.removeAttribute('disabled')
+                check4.removeAttribute('disabled')
+                check0.parentNode.children[1].style.color="black"
+                check1.parentNode.children[1].style.color="black"
+                check2.parentNode.children[1].style.color="black"
+                check3.parentNode.children[1].style.color="black"
+                check4.parentNode.children[1].style.color="black"
+
+            } else {
+                check0.disabled = true
+                check1.disabled = true
+                check2.disabled = true
+                check3.disabled = true
+                check4.disabled = true
+                check0.parentNode.children[1].style.color="grey"
+                check1.parentNode.children[1].style.color="grey"
+                check2.parentNode.children[1].style.color="grey"
+                check3.parentNode.children[1].style.color="grey"
+                check4.parentNode.children[1].style.color="grey"
+            } 
+        }
+
+    </script>
+    
+    <form name="listForm">
+        <div class="col">
+            <div class="row">
+                <div class="col-total">
+                    <h3>Totale</h3>
+                    <input type="text" size="2" name="total" value="0"/>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <h3>Pagine</h3>
+                    <div class="button">
+                        <input type="checkbox" name="choice" value="500" onchange="checkTotal()"/>
+                        Landing Page 
+                    </div>
+                    <div class="button">
+                        <input type="checkbox" name="choice" value="300" onchange="checkTotal()"/>
+                        Home
+                    </div>
+                    <div class="button">
+                        <input type="checkbox" name="choice" value="150" onchange="checkTotal()"/>
+                        About
+                    </div>
+                    <div class="button">
+                        <input type="checkbox" name="choice" value="150" onchange="checkTotal()"/>
+                        Contatti
+                    </div>
+                    <div class="button">
+                        <input type="checkbox" name="choice" value="150" onchange="checkTotal()"/>
+                        Pagina
+                    </div>
+                </div>
+
+                <div class="col">
+                    <h3>eCommerce</h3>
+                    <div class="button">
+                        <input id="shopCheck" type="checkbox" name="choice" value="300" onchange="enableCheckbox()"/>
+                        Shop/Carrello
+                    </div>
+                    <div class="button">
+                        <input disabled id="product0" type="checkbox" name="choice" value="0" onchange="checkTotal()"/>
+                        Condizioni di Vendita
+                    </div>
+                    <h3>eCommerce - Prodotti</h3>
+                    <div class="button">
+                        <input disabled id="product1" type="checkbox" name="choice" value="500" onchange="checkTotal()"/>
+                        <p>1-20 prodotti</p> 
+                    </div>
+                    <div class="button">
+                        <input disabled id="product2" type="checkbox" name="choice" value="300" onchange="checkTotal()"/>
+                        <p>20+ prodotti</p>
+                    </div>
+                    <div class="button">
+                        <input disabled id="product3" type="checkbox" name="choice" value="500" onchange="checkTotal()"/>
+                        <p>50+ prodotti</p>
+                    </div>
+                    <div class="button">
+                        <input disabled id="product4" type="checkbox" name="choice" value="1000" onchange="checkTotal()"/>
+                        <p>100+ prodotti</p>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <h3>Altro</h3>
+                    <div class="button">
+                        <input checked type="checkbox" name="choice" value="0" onchange="checkTotal()"/>
+                        Cookie Banner
+                    </div>
+                    <div class="button">
+                        <input checked type="checkbox" name="choice" value="0" onchange="checkTotal()"/>
+                        Cookie Policy
+                    </div>
+                    <div class="button">
+                        <input checked type="checkbox" name="choice" value="0" onchange="checkTotal()"/>
+                        Privacy Policy
+                    </div>
+                    
+
+                </div>
+
+                
+            </div>
+        </div>
+
+    </form>
+</body>
+</html>
