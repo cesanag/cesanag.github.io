@@ -17,6 +17,12 @@
             height: 50px;
             margin: 10px;
         }
+
+        input[type="radio"] {
+            width: 50px;
+            height: 50px;
+            margin: 10px;
+        }
         
         input[type="text"] {
             padding: 25px;
@@ -51,37 +57,44 @@
             for (i=0;i<document.listForm.choice.length;i++) {
               if (document.listForm.choice[i].checked) {
                   sum = sum + parseInt(document.listForm.choice[i].value);
-              } else {
+              }
+            }
+            for (i=0;i<document.listForm.choice1.length;i++) {
+              if (document.listForm.choice1[i].checked) {
+                  sum = sum + parseInt(document.listForm.choice1[i].value);
               }
             }
             document.listForm.total.value = sum;
         }
 
         function enableCheckbox() {
-            checkTotal() 
             let checker = document.getElementById('shopCheck');
             check0 = document.getElementById('product0')
             check1 = document.getElementById('product1')
             check2 = document.getElementById('product2')
             check3 = document.getElementById('product3')
             check4 = document.getElementById('product4')
-            if (checker.checked === true) {
+            if (checker.checked === true) {       
                 check0.removeAttribute('disabled')
                 check0.checked = true
                 check1.removeAttribute('disabled')
                 check2.removeAttribute('disabled')
                 check3.removeAttribute('disabled')
                 check4.removeAttribute('disabled')
-
-
+                checkTotal()
             } else {
                 check0.checked = false
+                check1.checked = false
+                check2.checked = false
+                check3.checked = false
+                check4.checked = false
                 check0.disabled = true
                 check1.disabled = true
                 check2.disabled = true
                 check3.disabled = true
                 check4.disabled = true
-            } 
+                checkTotal()
+            }
         }
 
     </script>
@@ -132,19 +145,19 @@
                     </div>
                     <h3>eCommerce - Prodotti</h3>
                     <div class="button">
-                        <input disabled id="product1" type="checkbox" name="choice" value="500" onchange="checkTotal()"/>
+                        <input disabled id="product1" type="radio" name="choice1" value="300" onchange="checkTotal()"/>
                         <p>1-20 prodotti</p> 
                     </div>
                     <div class="button">
-                        <input disabled id="product2" type="checkbox" name="choice" value="300" onchange="checkTotal()"/>
+                        <input disabled id="product2" type="radio" name="choice1" value="300" onchange="checkTotal()"/>
                         <p>20+ prodotti</p>
                     </div>
                     <div class="button">
-                        <input disabled id="product3" type="checkbox" name="choice" value="500" onchange="checkTotal()"/>
+                        <input disabled id="product3" type="radio" name="choice1" value="500" onchange="checkTotal()"/>
                         <p>50+ prodotti</p>
                     </div>
                     <div class="button">
-                        <input disabled id="product4" type="checkbox" name="choice" value="1000" onchange="checkTotal()"/>
+                        <input disabled id="product4" type="radio" name="choice1" value="1000" onchange="checkTotal()"/>
                         <p>100+ prodotti</p>
                     </div>
                 </div>
