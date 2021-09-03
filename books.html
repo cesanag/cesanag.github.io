@@ -20,8 +20,7 @@
       <div class="page--content">
         <h1>Letteratura e Libri</h1>
         <p>
-          Ho una discreta collezione di libri cartacei e digitali. Questo è un
-          elenco di tutti quelli che ho letto, disposti in ordine alfabetico. Ho
+          Un elenco di tutti i libri cartacei e digitali che ho letto, disposti in ordine alfabetico. Ho
           escluso dalla lista i libri per bambini (0-10 anni).
         </p>
 
@@ -65,13 +64,15 @@
             book = document.createElement("li");
             a = document.createElement("a");
             img = document.createElement("img");
+            year = document.createElement("div")
             // const indexNumber = document.createElement("p");
             title = document.createElement("h3");
             author = document.createElement("div");
             // const category = document.createElement("div");
             book.setAttribute("id", `book-${index}`);
             book.className += `content--book-container content--book-filter ${res.annoLettura} ${res.categoria}`;
-            a.setAttribute("class", `book-a`);
+            year.setAttribute("class", "grey");
+            a.setAttribute("class", "book-a");
             title.setAttribute("class", "content--book-title");
             img.setAttribute("class", "content--book-img");
             // category.setAttribute("class", "grey");
@@ -80,12 +81,14 @@
             a.appendChild(img);
             a.appendChild(author);
             a.appendChild(title);
+            a.appendChild(year);
 
             // a.appendChild(category);
             img.src = "img/interest-literature.png";
             // indexNumber.innerHTML = index;
             title.innerHTML = res.titolo;
             author.innerHTML = `${res.nomeAutore} ${res.cognomeAutore}`;
+            year.innerHTML = `Letto nel ${res.annoLettura}`;
             // category.innerHTML = `${res.categoria.toUpperCase()}`;
 
             document.getElementById("books").appendChild(book);

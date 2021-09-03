@@ -3,14 +3,14 @@
     "titolo": 1984,
     "cognomeAutore": "Orwell",
     "nomeAutore": "George",
-    "annoLettura": "",
+    "annoLettura": 2005,
     "categoria": "fiction"
   },
   {
     "titolo": "22/11/63",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2016,
     "categoria": "fiction"
   },
   {
@@ -24,28 +24,28 @@
     "titolo": "A letto con David",
     "cognomeAutore": "Brenna",
     "nomeAutore": "Stefano",
-    "annoLettura": "",
+    "annoLettura": 2014,
     "categoria": "fiction"
   },
   {
     "titolo": "A volte ritornano",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2008,
     "categoria": "fiction"
   },
   {
     "titolo": "Abbracciati da sola che c'ho da andà via",
     "cognomeAutore": "Migone",
     "nomeAutore": "Paolo",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
     "titolo": "Achille piè veloce",
     "cognomeAutore": "Benni",
     "nomeAutore": "Stefano",
-    "annoLettura": "",
+    "annoLettura": 2014,
     "categoria": "fiction"
   },
   {
@@ -66,7 +66,7 @@
     "titolo": "Allucinazioni",
     "cognomeAutore": "Sacks",
     "nomeAutore": "Oliver",
-    "annoLettura": "",
+    "annoLettura": 2015,
     "categoria": "fiction"
   },
   {
@@ -87,14 +87,14 @@
     "titolo": "Angeli e Demoni",
     "cognomeAutore": "Brown",
     "nomeAutore": "Dan",
-    "annoLettura": "",
+    "annoLettura": 2009,
     "categoria": "fiction"
   },
   {
     "titolo": "Arancia meccanica",
     "cognomeAutore": "Burgess",
     "nomeAutore": "Anthony",
-    "annoLettura": "",
+    "annoLettura": 2011,
     "categoria": "fiction"
   },
   {
@@ -108,35 +108,35 @@
     "titolo": "Artemis Fowl",
     "cognomeAutore": "Colfer",
     "nomeAutore": "Eoin",
-    "annoLettura": "",
+    "annoLettura": 2001,
     "categoria": "fiction"
   },
   {
     "titolo": "Artemis Fowl - Il codice Eternity",
     "cognomeAutore": "Colfer",
     "nomeAutore": "Eoin",
-    "annoLettura": "",
+    "annoLettura": 2001,
     "categoria": "fiction"
   },
   {
     "titolo": "Artemis Fowl - L'incidente artico",
     "cognomeAutore": "Colfer",
     "nomeAutore": "Eoin",
-    "annoLettura": "",
+    "annoLettura": 2001,
     "categoria": "fiction"
   },
   {
     "titolo": "Artemis Fowl - L'inganno di Opal",
     "cognomeAutore": "Colfer",
     "nomeAutore": "Eoin",
-    "annoLettura": "",
+    "annoLettura": 2001,
     "categoria": "fiction"
   },
   {
     "titolo": "Ascensore per lo spazio",
     "cognomeAutore": "Madia",
     "nomeAutore": "Claudio",
-    "annoLettura": "",
+    "annoLettura": 2001,
     "categoria": "fiction"
   },
   {
@@ -150,7 +150,7 @@
     "titolo": "Balle grosse S.P.A.",
     "cognomeAutore": "Luciani",
     "nomeAutore": "Domenica",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
@@ -164,7 +164,7 @@
     "titolo": "Bartleby lo scrivano",
     "cognomeAutore": "Melville",
     "nomeAutore": "Herman",
-    "annoLettura": "",
+    "annoLettura": 2007,
     "categoria": "fiction"
   },
   {
@@ -178,14 +178,14 @@
     "titolo": "Bionda, nerissimamente bionda",
     "cognomeAutore": "Puccetti",
     "nomeAutore": "Roland",
-    "annoLettura": "",
+    "annoLettura": 2014,
     "categoria": "fiction"
   },
   {
     "titolo": "Blaze",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2007,
     "categoria": "fiction"
   },
   {
@@ -227,21 +227,21 @@
     "titolo": "Buick 8",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2005,
     "categoria": "fiction"
   },
   {
     "titolo": "C'era due volte il barone Lamberto",
     "cognomeAutore": "Rodari",
     "nomeAutore": "Gianni",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
     "titolo": "Candido",
     "cognomeAutore": "Voltaire",
     "nomeAutore": "",
-    "annoLettura": "",
+    "annoLettura": 2016,
     "categoria": "fiction"
   },
   {
@@ -262,7 +262,7 @@
     "titolo": "Caverna del tempo",
     "cognomeAutore": "Gordon",
     "nomeAutore": "Rex",
-    "annoLettura": "",
+    "annoLettura": 2015,
     "categoria": "fiction"
   },
   {
@@ -283,7 +283,7 @@
     "titolo": "Christine",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2004,
     "categoria": "fiction"
   },
   {
@@ -325,14 +325,14 @@
     "titolo": "Come sono guarito dalla miopia",
     "cognomeAutore": "De Angelis",
     "nomeAutore": "David",
-    "annoLettura": "",
+    "annoLettura": 2009,
     "categoria": "nonFiction"
   },
   {
     "titolo": "Comici spaventati guerrieri",
     "cognomeAutore": "Benni",
     "nomeAutore": "Stefano",
-    "annoLettura": "",
+    "annoLettura": 2007,
     "categoria": "fiction"
   },
   {
@@ -346,21 +346,21 @@
     "titolo": "Coscienza di Zeno",
     "cognomeAutore": "Svevo",
     "nomeAutore": "Italo",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
     "titolo": "Cose preziose",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2005,
     "categoria": "fiction"
   },
   {
     "titolo": "Crypto",
     "cognomeAutore": "Brown",
     "nomeAutore": "Dan",
-    "annoLettura": "",
+    "annoLettura": 2004,
     "categoria": "fiction"
   },
   {
@@ -374,21 +374,21 @@
     "titolo": "Cujo",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
     "titolo": "Cuore",
     "cognomeAutore": "De Amicis",
     "nomeAutore": "Edmondo",
-    "annoLettura": "",
+    "annoLettura": 2000,
     "categoria": "fiction"
   },
   {
     "titolo": "Cuore di cane",
     "cognomeAutore": "Bulgakov",
     "nomeAutore": "Michail",
-    "annoLettura": "",
+    "annoLettura": 2012,
     "categoria": "fiction"
   },
   {
@@ -409,7 +409,7 @@
     "titolo": "Diario",
     "cognomeAutore": "Frank",
     "nomeAutore": "Anne",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
@@ -458,21 +458,21 @@
     "titolo": "Dracula",
     "cognomeAutore": "Stoker",
     "nomeAutore": "Bram",
-    "annoLettura": "",
+    "annoLettura": 2020,
     "categoria": "fiction"
   },
   {
     "titolo": "Duplicatori",
     "cognomeAutore": "Shea",
     "nomeAutore": "Harold",
-    "annoLettura": "",
+    "annoLettura": 2016,
     "categoria": "fiction"
   },
   {
     "titolo": "E la donna? Fuma fuma!",
     "cognomeAutore": "Cremona",
     "nomeAutore": "Raul",
-    "annoLettura": "",
+    "annoLettura": 2005,
     "categoria": "fiction"
   },
   {
@@ -486,7 +486,7 @@
     "titolo": "Elianto",
     "cognomeAutore": "Benni",
     "nomeAutore": "Stefano",
-    "annoLettura": "",
+    "annoLettura": 2012,
     "categoria": "fiction"
   },
   {
@@ -514,7 +514,7 @@
     "titolo": "Esercizi di stile",
     "cognomeAutore": "Queneau",
     "nomeAutore": "Raymond",
-    "annoLettura": "",
+    "annoLettura": 2015,
     "categoria": "nonFiction"
   },
   {
@@ -542,7 +542,7 @@
     "titolo": "Favole al telefono",
     "cognomeAutore": "Rodari",
     "nomeAutore": "Gianni",
-    "annoLettura": "",
+    "annoLettura": 1998,
     "categoria": "fiction"
   },
   {
@@ -556,7 +556,7 @@
     "titolo": "Filastrocche in cielo e in terra",
     "cognomeAutore": "Rodari",
     "nomeAutore": "Gianni",
-    "annoLettura": "",
+    "annoLettura": 2001,
     "categoria": "fiction"
   },
   {
@@ -598,7 +598,7 @@
     "titolo": "Franco, oh franco!",
     "cognomeAutore": "Neri",
     "nomeAutore": "Franco",
-    "annoLettura": "",
+    "annoLettura": 2005,
     "categoria": "fiction"
   },
   {
@@ -612,14 +612,14 @@
     "titolo": "Gli occhi del drago",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
     "titolo": "Gli spaventevoli egizi",
     "cognomeAutore": "Deary",
     "nomeAutore": "Terry",
-    "annoLettura": "",
+    "annoLettura": 2000,
     "categoria": "fiction"
   },
   {
@@ -647,15 +647,8 @@
     "titolo": "Gomorra",
     "cognomeAutore": "Saviano",
     "nomeAutore": "Roberto",
-    "annoLettura": "",
+    "annoLettura": 2009,
     "categoria": "fiction"
-  },
-  {
-    "titolo": "Growth Hacking Copywriting",
-    "cognomeAutore": "Taylor",
-    "nomeAutore": "Ray",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
   },
   {
     "titolo": "Growth Hacking Copywriting",
@@ -675,7 +668,7 @@
     "titolo": "Hacker Republic",
     "cognomeAutore": "Ghioni",
     "nomeAutore": "Fabio",
-    "annoLettura": "",
+    "annoLettura": 2012,
     "categoria": "nonFiction"
   },
   {
@@ -745,7 +738,7 @@
     "titolo": "Horror",
     "cognomeAutore": "Horowitz",
     "nomeAutore": "Anthony",
-    "annoLettura": "",
+    "annoLettura": 2000,
     "categoria": "fiction"
   },
   {
@@ -759,7 +752,7 @@
     "titolo": "I mille volti del terrore",
     "cognomeAutore": "Page",
     "nomeAutore": "Gerald",
-    "annoLettura": "",
+    "annoLettura": 2009,
     "categoria": "fiction"
   },
   {
@@ -773,7 +766,7 @@
     "titolo": "I miti di Chtulhu",
     "cognomeAutore": "Lovecraft",
     "nomeAutore": "H.P.",
-    "annoLettura": "",
+    "annoLettura": 2012,
     "categoria": "fiction"
   },
   {
@@ -787,14 +780,14 @@
     "titolo": "I paradisi artificiali",
     "cognomeAutore": "Baudelaire",
     "nomeAutore": "Charles",
-    "annoLettura": "",
+    "annoLettura": 2012,
     "categoria": "fiction"
   },
   {
     "titolo": "I pilastri della terra",
     "cognomeAutore": "Follett",
     "nomeAutore": "Ken",
-    "annoLettura": "",
+    "annoLettura": 2004,
     "categoria": "fiction"
   },
   {
@@ -836,7 +829,7 @@
     "titolo": "I sogni e il modo di dirigerli",
     "cognomeAutore": "De Saint-Denys",
     "nomeAutore": "Hervey",
-    "annoLettura": "",
+    "annoLettura": 2011,
     "categoria": "nonFiction"
   },
   {
@@ -850,28 +843,28 @@
     "titolo": "I vendicatori",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
     "titolo": "Il bar sotto il mare",
     "cognomeAutore": "Benni",
     "nomeAutore": "Stefano",
-    "annoLettura": "",
+    "annoLettura": 2008,
     "categoria": "fiction"
   },
   {
     "titolo": "Il brigante pennastorta",
     "cognomeAutore": "Preussler",
     "nomeAutore": "Otfried",
-    "annoLettura": "",
+    "annoLettura": 2000,
     "categoria": "fiction"
   },
   {
     "titolo": "Il cacciatore di draghi",
     "cognomeAutore": "Tolkien",
     "nomeAutore": "J.R.R.",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
@@ -906,7 +899,7 @@
     "titolo": "Il cimitero di Praga",
     "cognomeAutore": "Eco",
     "nomeAutore": "Umberto",
-    "annoLettura": "",
+    "annoLettura": 2010,
     "categoria": "fiction"
   },
   {
@@ -927,14 +920,14 @@
     "titolo": "Il codice Da Vinci",
     "cognomeAutore": "Brown",
     "nomeAutore": "Dan",
-    "annoLettura": "",
+    "annoLettura": 2008,
     "categoria": "fiction"
   },
   {
     "titolo": "Il colombre",
     "cognomeAutore": "Buzzati",
     "nomeAutore": "Dino",
-    "annoLettura": "",
+    "annoLettura": 2017,
     "categoria": "fiction"
   },
   {
@@ -976,7 +969,7 @@
     "titolo": "Il fu Mattia Pascal",
     "cognomeAutore": "Pirandello",
     "nomeAutore": "Luigi",
-    "annoLettura": "",
+    "annoLettura": 2010,
     "categoria": "fiction"
   },
   {
@@ -997,7 +990,7 @@
     "titolo": "Il gioco di Gerald",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2004,
     "categoria": "fiction"
   },
   {
@@ -1053,7 +1046,7 @@
     "titolo": "Il libro dei mostri",
     "cognomeAutore": "Coville",
     "nomeAutore": "Bruce",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
@@ -1074,7 +1067,7 @@
     "titolo": "Il libro segreto di Shakespeare",
     "cognomeAutore": "Underwood",
     "nomeAutore": "John",
-    "annoLettura": "",
+    "annoLettura": 2007,
     "categoria": "fiction"
   },
   {
@@ -1130,7 +1123,7 @@
     "titolo": "Il miglio verde",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2004,
     "categoria": "fiction"
   },
   {
@@ -1172,7 +1165,7 @@
     "titolo": "Il nome della rosa",
     "cognomeAutore": "Eco",
     "nomeAutore": "Umberto",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
@@ -1186,14 +1179,14 @@
     "titolo": "Il pianeta dei bruchi",
     "cognomeAutore": "Follett",
     "nomeAutore": "Ken",
-    "annoLettura": "",
+    "annoLettura": 2001,
     "categoria": "fiction"
   },
   {
     "titolo": "Il piccolo principe",
     "cognomeAutore": "De Saint-Exupéry",
     "nomeAutore": "Antoine",
-    "annoLettura": "",
+    "annoLettura": 2001,
     "categoria": "fiction"
   },
   {
@@ -1214,7 +1207,7 @@
     "titolo": "Il problema più difficile del mondo",
     "cognomeAutore": "Wardle",
     "nomeAutore": "Terry",
-    "annoLettura": "",
+    "annoLettura": 2002,
     "categoria": "fiction"
   },
   {
@@ -1228,7 +1221,7 @@
     "titolo": "Il profumo",
     "cognomeAutore": "Suskind",
     "nomeAutore": "Patrick",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
@@ -1284,7 +1277,7 @@
     "titolo": "Il ritratto di Dorian Grey",
     "cognomeAutore": "Wilde",
     "nomeAutore": "Oscar",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
@@ -1305,14 +1298,14 @@
     "titolo": "Il signore delle mosche",
     "cognomeAutore": "Golding",
     "nomeAutore": "William",
-    "annoLettura": "",
+    "annoLettura": 2009,
     "categoria": "fiction"
   },
   {
     "titolo": "Il simbolo perduto",
     "cognomeAutore": "Brown",
     "nomeAutore": "Dan",
-    "annoLettura": "",
+    "annoLettura": 2008,
     "categoria": "fiction"
   },
   {
@@ -1354,7 +1347,7 @@
     "titolo": "Il visconte dimezzato",
     "cognomeAutore": "Calvino",
     "nomeAutore": "Italo",
-    "annoLettura": "",
+    "annoLettura": 2008,
     "categoria": "fiction"
   },
   {
@@ -1368,7 +1361,7 @@
     "titolo": "Incubi & deliri",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2007,
     "categoria": "fiction"
   },
   {
@@ -1382,14 +1375,14 @@
     "titolo": "Inferno",
     "cognomeAutore": "Brown",
     "nomeAutore": "Dan",
-    "annoLettura": "",
+    "annoLettura": 2009,
     "categoria": "fiction"
   },
   {
     "titolo": "Insomnia",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2008,
     "categoria": "fiction"
   },
   {
@@ -1410,7 +1403,7 @@
     "titolo": "Io uccido",
     "cognomeAutore": "Faletti",
     "nomeAutore": "Giorgio",
-    "annoLettura": "",
+    "annoLettura": 2005,
     "categoria": "fiction"
   },
   {
@@ -1431,7 +1424,7 @@
     "titolo": "Jack Frusciante è uscito dal gruppo",
     "cognomeAutore": "Brizzi",
     "nomeAutore": "Enrico",
-    "annoLettura": "",
+    "annoLettura": 2004,
     "categoria": "fiction"
   },
   {
@@ -1445,7 +1438,7 @@
     "titolo": "Kamo",
     "cognomeAutore": "Pennac",
     "nomeAutore": "Daniel",
-    "annoLettura": "",
+    "annoLettura": 2002,
     "categoria": "fiction"
   },
   {
@@ -1473,7 +1466,7 @@
     "titolo": "L'acchiappasogni",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2015,
     "categoria": "fiction"
   },
   {
@@ -1494,14 +1487,14 @@
     "titolo": "L'arte del ventesimo secolo",
     "cognomeAutore": "Riout",
     "nomeAutore": "Denys",
-    "annoLettura": "",
+    "annoLettura": 2013,
     "categoria": "nonFiction"
   },
   {
     "titolo": "L'arte della guerra",
     "cognomeAutore": "Tzu",
     "nomeAutore": "Sun",
-    "annoLettura": "",
+    "annoLettura": 2015,
     "categoria": "nonFiction"
   },
   {
@@ -1522,7 +1515,7 @@
     "titolo": "L'incendiaria",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2005,
     "categoria": "fiction"
   },
   {
@@ -1536,7 +1529,7 @@
     "titolo": "L'infanzia e il sogno - Il cinema di Fellini",
     "cognomeAutore": "Iarussi",
     "nomeAutore": "Oscar",
-    "annoLettura": "",
+    "annoLettura": 2014,
     "categoria": "fiction"
   },
   {
@@ -1550,28 +1543,28 @@
     "titolo": "L'inganno della scimmia",
     "cognomeAutore": "Bonazzoli",
     "nomeAutore": "Francesca",
-    "annoLettura": "",
+    "annoLettura": 2008,
     "categoria": "fiction"
   },
   {
     "titolo": "L'interpretazione dei sogni",
     "cognomeAutore": "Freud",
     "nomeAutore": "Sigmund",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
     "titolo": "L'inventore di sogni",
     "cognomeAutore": "McEwan",
     "nomeAutore": "Ian",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
     "titolo": "L'isola del tesoro",
     "cognomeAutore": "Stevenson",
     "nomeAutore": "Robert Louis",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
@@ -1599,7 +1592,7 @@
     "titolo": "L'occhio della piovra",
     "cognomeAutore": "Brussolo",
     "nomeAutore": "Serge",
-    "annoLettura": "",
+    "annoLettura": 2009,
     "categoria": "fiction"
   },
   {
@@ -1613,7 +1606,7 @@
     "titolo": "L'ombra dello scorpione",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2010,
     "categoria": "fiction"
   },
   {
@@ -1634,7 +1627,7 @@
     "titolo": "L'ultimo cavaliere",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2015,
     "categoria": "fiction"
   },
   {
@@ -1655,42 +1648,42 @@
     "titolo": "L'uomo invisibile",
     "cognomeAutore": "Wells",
     "nomeAutore": "H.G.",
-    "annoLettura": "",
+    "annoLettura": 2017,
     "categoria": "fiction"
   },
   {
     "titolo": "La bussola d’oro",
     "cognomeAutore": "Pullman",
     "nomeAutore": "Philip",
-    "annoLettura": "",
+    "annoLettura": 2001,
     "categoria": "fiction"
   },
   {
     "titolo": "La caduta dei giganti",
     "cognomeAutore": "Follett",
     "nomeAutore": "Ken",
-    "annoLettura": "",
+    "annoLettura": 2015,
     "categoria": "fiction"
   },
   {
     "titolo": "La casa sopra i portici",
     "cognomeAutore": "Verdone",
     "nomeAutore": "Carlo",
-    "annoLettura": "",
+    "annoLettura": 2014,
     "categoria": "nonFiction"
   },
   {
     "titolo": "La città delle bestie",
     "cognomeAutore": "Allende",
     "nomeAutore": "Isabel",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
     "titolo": "La compagnia dei celestini",
     "cognomeAutore": "Benni",
     "nomeAutore": "Stefano",
-    "annoLettura": "",
+    "annoLettura": 2010,
     "categoria": "fiction"
   },
   {
@@ -1704,7 +1697,7 @@
     "titolo": "La fabbrica di cioccolato",
     "cognomeAutore": "Dahl",
     "nomeAutore": "Roald",
-    "annoLettura": "",
+    "annoLettura": 2001,
     "categoria": "fiction"
   },
   {
@@ -1732,7 +1725,7 @@
     "titolo": "La grande rapina al treno",
     "cognomeAutore": "Crichton",
     "nomeAutore": "Michael",
-    "annoLettura": "",
+    "annoLettura": 2008,
     "categoria": "fiction"
   },
   {
@@ -1746,7 +1739,7 @@
     "titolo": "La lunga marcia",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2007,
     "categoria": "fiction"
   },
   {
@@ -1781,7 +1774,7 @@
     "titolo": "La pendola stregata",
     "cognomeAutore": "Bellairs",
     "nomeAutore": "John",
-    "annoLettura": "",
+    "annoLettura": 2002,
     "categoria": "fiction"
   },
   {
@@ -1851,7 +1844,7 @@
     "titolo": "La strada del guerriero",
     "cognomeAutore": "Baccalario",
     "nomeAutore": "Pierdomenico",
-    "annoLettura": "",
+    "annoLettura": 2002,
     "categoria": "fiction"
   },
   {
@@ -1865,7 +1858,7 @@
     "titolo": "La verità dei ghiacci",
     "cognomeAutore": "Brown",
     "nomeAutore": "Dan",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
@@ -1879,7 +1872,7 @@
     "titolo": "La zona morta",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2015,
     "categoria": "fiction"
   },
   {
@@ -1893,7 +1886,7 @@
     "titolo": "Le avventure di Cipollino",
     "cognomeAutore": "Rodari",
     "nomeAutore": "Gianni",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
@@ -1921,7 +1914,7 @@
     "titolo": "Le mille e una morte",
     "cognomeAutore": "McIntosh",
     "nomeAutore": "J.T.",
-    "annoLettura": "",
+    "annoLettura": 2016,
     "categoria": "fiction"
   },
   {
@@ -1935,14 +1928,14 @@
     "titolo": "Le storie dell'orrore puro - L'incubo",
     "cognomeAutore": "Lovecraft",
     "nomeAutore": "H.P.",
-    "annoLettura": "",
+    "annoLettura": 2009,
     "categoria": "fiction"
   },
   {
     "titolo": "Le streghe",
     "cognomeAutore": "Dahl",
     "nomeAutore": "Roald",
-    "annoLettura": "",
+    "annoLettura": 2000,
     "categoria": "fiction"
   },
   {
@@ -1984,14 +1977,14 @@
     "titolo": "Lo scandalo Modigliani",
     "cognomeAutore": "Follett",
     "nomeAutore": "Ken",
-    "annoLettura": "",
+    "annoLettura": 2003,
     "categoria": "fiction"
   },
   {
     "titolo": "Lo schermo dei sogni",
     "cognomeAutore": "Albano",
     "nomeAutore": "Lucilla",
-    "annoLettura": "",
+    "annoLettura": 2014,
     "categoria": "fiction"
   },
   {
@@ -2005,7 +1998,7 @@
     "titolo": "Lo strano caso del cane ucciso a mezzanotte",
     "cognomeAutore": "Haddon",
     "nomeAutore": "Mark",
-    "annoLettura": "",
+    "annoLettura": 2005,
     "categoria": "fiction"
   },
   {
@@ -2019,7 +2012,7 @@
     "titolo": "LSD, il mio bambino difficile",
     "cognomeAutore": "Hofman",
     "nomeAutore": "Albert",
-    "annoLettura": "",
+    "annoLettura": 2007,
     "categoria": "nonFiction"
   },
   {
@@ -2040,14 +2033,14 @@
     "titolo": "Manuale del boia",
     "cognomeAutore": "Duff",
     "nomeAutore": "Charles",
-    "annoLettura": "",
+    "annoLettura": 2017,
     "categoria": "fiction"
   },
   {
     "titolo": "Margherita Dolcevita",
     "cognomeAutore": "Benni",
     "nomeAutore": "Stefano",
-    "annoLettura": "",
+    "annoLettura": 2013,
     "categoria": "fiction"
   },
   {
@@ -2103,7 +2096,7 @@
     "titolo": "Misery",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
@@ -2124,14 +2117,14 @@
     "titolo": "Moby Dick",
     "cognomeAutore": "Melville",
     "nomeAutore": "Herman",
-    "annoLettura": "",
+    "annoLettura": 2015,
     "categoria": "fiction"
   },
   {
     "titolo": "Mondo senza fine",
     "cognomeAutore": "Follett",
     "nomeAutore": "Ken",
-    "annoLettura": "",
+    "annoLettura": 2004,
     "categoria": "fiction"
   },
   {
@@ -2152,7 +2145,7 @@
     "titolo": "Mutilato scappa su gamba rubata",
     "cognomeAutore": "Stefanato",
     "nomeAutore": "Paolo",
-    "annoLettura": "",
+    "annoLettura": 2002,
     "categoria": "nonFiction"
   },
   {
@@ -2194,7 +2187,7 @@
     "titolo": "Niente di vero tranne gli occhi",
     "cognomeAutore": "Faletti",
     "nomeAutore": "Giorgio",
-    "annoLettura": "",
+    "annoLettura": 2007,
     "categoria": "fiction"
   },
   {
@@ -2215,21 +2208,21 @@
     "titolo": "On writing",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2017,
     "categoria": "fiction"
   },
   {
     "titolo": "Orlando Furioso",
     "cognomeAutore": "Calvino",
     "nomeAutore": "Italo",
-    "annoLettura": "",
+    "annoLettura": 2018,
     "categoria": "fiction"
   },
   {
     "titolo": "Osservazioni sulla tortura",
     "cognomeAutore": "Verri",
     "nomeAutore": "Pietro",
-    "annoLettura": "",
+    "annoLettura": 2017,
     "categoria": "nonFiction"
   },
   {
@@ -2264,21 +2257,21 @@
     "titolo": "Pane e tempesta",
     "cognomeAutore": "Benni",
     "nomeAutore": "Stefano",
-    "annoLettura": "",
+    "annoLettura": 2015,
     "categoria": "fiction"
   },
   {
     "titolo": "Paperdinastia",
     "cognomeAutore": "Disney",
     "nomeAutore": "Walt",
-    "annoLettura": "",
+    "annoLettura": 2000,
     "categoria": "fiction"
   },
   {
     "titolo": "Paura",
     "cognomeAutore": "Wright",
     "nomeAutore": "Richard",
-    "annoLettura": "",
+    "annoLettura": 2014,
     "categoria": "fiction"
   },
   {
@@ -2299,7 +2292,7 @@
     "titolo": "Pet sematary",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2008,
     "categoria": "fiction"
   },
   {
@@ -2334,14 +2327,14 @@
     "titolo": "Pinocchio",
     "cognomeAutore": "Collodi",
     "nomeAutore": "Carlo",
-    "annoLettura": "",
+    "annoLettura": 2000,
     "categoria": "fiction"
   },
   {
     "titolo": "Pippi Calzelunghe",
     "cognomeAutore": "Lindgren",
     "nomeAutore": "Astrid",
-    "annoLettura": "",
+    "annoLettura": 2001,
     "categoria": "fiction"
   },
   {
@@ -2362,14 +2355,14 @@
     "titolo": "Profondo Thrilling",
     "cognomeAutore": "Argento",
     "nomeAutore": "Dario",
-    "annoLettura": "",
+    "annoLettura": 2011,
     "categoria": "fiction"
   },
   {
     "titolo": "Pulp",
     "cognomeAutore": "Bukowski",
     "nomeAutore": "Charles",
-    "annoLettura": "",
+    "annoLettura": 2007,
     "categoria": "fiction"
   },
   {
@@ -2397,7 +2390,7 @@
     "titolo": "Racconti dei saggi pellegrini",
     "cognomeAutore": "De la Héronniere",
     "nomeAutore": "Edith",
-    "annoLettura": "",
+    "annoLettura": 2019,
     "categoria": "fiction"
   },
   {
@@ -2411,14 +2404,14 @@
     "titolo": "Resurrezione",
     "cognomeAutore": "Sohl",
     "nomeAutore": "Jerry",
-    "annoLettura": "",
+    "annoLettura": 2016,
     "categoria": "fiction"
   },
   {
     "titolo": "Ribelli",
     "cognomeAutore": "Hinton",
     "nomeAutore": "S.E.",
-    "annoLettura": "",
+    "annoLettura": 2005,
     "categoria": "fiction"
   },
   {
@@ -2432,7 +2425,7 @@
     "titolo": "Rituali quotidiani",
     "cognomeAutore": "Currey",
     "nomeAutore": "Mason",
-    "annoLettura": "",
+    "annoLettura": 2010,
     "categoria": "fiction"
   },
   {
@@ -2453,14 +2446,14 @@
     "titolo": "Rosemary's baby",
     "cognomeAutore": "Levin",
     "nomeAutore": "Ira",
-    "annoLettura": "",
+    "annoLettura": 2007,
     "categoria": "fiction"
   },
   {
     "titolo": "Saltatempo",
     "cognomeAutore": "Benni",
     "nomeAutore": "Stefano",
-    "annoLettura": "",
+    "annoLettura": 2012,
     "categoria": "fiction"
   },
   {
@@ -2481,7 +2474,7 @@
     "titolo": "Scelti dalle tenebre",
     "cognomeAutore": "Rice",
     "nomeAutore": "Anne",
-    "annoLettura": "",
+    "annoLettura": 2005,
     "categoria": "fiction"
   },
   {
@@ -2530,14 +2523,14 @@
     "titolo": "Shrek",
     "cognomeAutore": "Steig",
     "nomeAutore": "William",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
     "titolo": "Sigrid e i mondi perduti - La fidanzata del rospo",
     "cognomeAutore": "Brussolo",
     "nomeAutore": "Serge",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
@@ -2551,14 +2544,14 @@
     "titolo": "Soffocare",
     "cognomeAutore": "Palahniuk",
     "nomeAutore": "Chuck",
-    "annoLettura": "",
+    "annoLettura": 2007,
     "categoria": "fiction"
   },
   {
     "titolo": "Solitudine digitale",
     "cognomeAutore": "Spitzer",
     "nomeAutore": "Manfred",
-    "annoLettura": "",
+    "annoLettura": 2017,
     "categoria": "nonFiction"
   },
   {
@@ -2572,7 +2565,7 @@
     "titolo": "Stagioni diverse",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
-    "annoLettura": "",
+    "annoLettura": 2008,
     "categoria": "fiction"
   },
   {
@@ -2593,7 +2586,7 @@
     "titolo": "Stato di paura",
     "cognomeAutore": "Crichton",
     "nomeAutore": "Michael",
-    "annoLettura": "",
+    "annoLettura": 2006,
     "categoria": "fiction"
   },
   {
@@ -2621,7 +2614,7 @@
     "titolo": "Storie di ordinaria follia",
     "cognomeAutore": "Bukowski",
     "nomeAutore": "Charles",
-    "annoLettura": "",
+    "annoLettura": 2013,
     "categoria": "fiction"
   },
   {
@@ -2642,7 +2635,7 @@
     "titolo": "Terra!",
     "cognomeAutore": "Benni",
     "nomeAutore": "Stefano",
-    "annoLettura": "",
+    "annoLettura": 2009,
     "categoria": "fiction"
   },
   {
@@ -2663,14 +2656,14 @@
     "titolo": "Trainspotting",
     "cognomeAutore": "Welsh",
     "nomeAutore": "Irvine",
-    "annoLettura": "",
+    "annoLettura": 2008,
     "categoria": "fiction"
   },
   {
     "titolo": "Tutte le novelle",
     "cognomeAutore": "Verga",
     "nomeAutore": "Giovanni",
-    "annoLettura": "",
+    "annoLettura": 2015,
     "categoria": "fiction"
   },
   {
@@ -2798,5 +2791,26 @@
     "nomeAutore": "Allen",
     "annoLettura": 2020,
     "categoria": "nonFiction"
+  },
+  {
+    "titolo": "Ninna nanna",
+    "cognomeAutore": "Palahniuk",
+    "nomeAutore": "Chuck",
+    "annoLettura": 2012,
+    "categoria": "fiction"
+  },
+  {
+    "titolo": "Invisible Monsters",
+    "cognomeAutore": "Palahniuk",
+    "nomeAutore": "Chuck",
+    "annoLettura": 2019,
+    "categoria": "fiction"
+  },
+  {
+    "titolo": "Cavie",
+    "cognomeAutore": "Palahniuk",
+    "nomeAutore": "Chuck",
+    "annoLettura": 2006,
+    "categoria": "fiction"
   }
 ]
