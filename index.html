@@ -1,359 +1,136 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>cesana.me - React Web Developer</title>
-    <link rel="icon" sizes="120x120" href="img/favicon-32x32.png">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link href="https://fonts.googleapis.com/css?family=Nunito|Fira+Code|Noto+Sans+JP&display=swap" rel="stylesheet"></head>
-</head>
-<body>
+<html lang="it">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <script src="js/web-components.js" async></script>
+    <script src="components/head.js" async></script>
+    <head-component></head-component>
+    <title>Gabriele Cesana | Home</title>
+    <script src="components/navbar.js" async></script>
+  </head>
 
- <div class="container">
+  <body>
+    <main>
+      <navbar-component></navbar-component>
 
-     
-<div class="other-container">
-            <div class="text medium codeFont">PORTFOLIO</div> <!--And stock video producer-->
-</div> 
+      <div class="threejs-overlay-text">Tocca o muovi il mouse</div>
+      <script type="module">
+        import * as THREE from "./js/three.module.js";
 
-    <!-- Quagento -->   
-    <div class="video-container">
-        <img class="video" src="img/quagento.png">
-        <div class="link-container">
-            <div class="text medium black-under">
-                Your agency has a new home
-            </div>
-            <div class="text-websites black-under">
-                The real estate social assistant
-                </div>
-            <div class="link-box">
-                <a href="https://quagento.com">
-                    <img class="link-img" 
-                    src="img/logo-quagento.png">
-                </a>
-            </div>
-        </div>
-    </div>
+        let camera, scene, renderer;
 
-      <!-- WaxZeroWaste -->   
-        <div class="video-container">
-            <img class="video" src="img/wzerowaste.jpg">
-            <div class="link-container">
-                <div class="text medium black-under">
-                   W Zero Waste <!--How does it feel<br>to be on top<br>of the world?-->
-                </div>
-                <div class="text-websites black-under">
-                    Sustainable ecommerce
-                    </div>
-                <div class="link-box">
-                   <a href="https://wzerowaste.netlify.app">
-                    <img class="link-img" 
-                    src="img/logo-wow.png" style="width: 125px;height: 100%">
-                </a>
-                </div>
-            </div>
-        </div>
-    
+        let mouseX = 0,
+          mouseY = 0;
 
-        <!-- Forno del Mastro -->   
-     <div class="video-container">
+        let windowHalfX = window.innerWidth / 2;
+        let windowHalfY = window.innerHeight / 2;
 
-        <img class="video" src="img/panettone.png">
-        <div class="link-container">
-            <div class="text medium black-under">
-                Tasty Pastry
-            </div>
-            <div class="text-websites black-under">
-                It's the sweetest<br> handmade panettone  
-            </div>
-            <div class="link-box">
-                <a href="https://fornodelmastro.it">
-                    <img style="width: 4rem" class="link-img" 
-                    src="img/logo-fdm-black.png">
-                </a>
-            </div>
-        </div>
-    </div>
-    
-   <!-- Guitar Stock -->     
-        <div class="video-container">
-            <img class="video" src="img/guitar.png">
-                
-                <div class="link-container">
-                        <div class="text medium black-under">The art of the craft<!--Find your inner guitarist-->
-                        </div>
-                        <div class="text-websites black-under">Luthery Stock Video<br>for all you guitar needs. <!--How does it feel<br>to be on top<br>of the world?-->
-                        </div>
-                        
-                        <div style="color:white"><!--How does it feel<br>to be on top<br>of the world?-->
-                        </div>
-                    <div class="link-box">
-                            <a href="https://guitarstock.github.io">
-                                <img class="link-img" src="/img/logo-guitar.png"></a>
-                    </div>
-                </div>
-        </div>
-    
-            <!-- Ropeaccess.TV -->   
-<div class="video-container">
-    <img class="video" src="img/ratv.png">
-           
-       <div class="link-container">
-               <div class="text medium black-under">Skyscrapers Flying Monkeys
-               </div>
-               <div class="text-websites black-under">How does it feel<br>to be on top<br>of the world?
-               </div>
-               <div class="link-box">
-                       <a href="https://ropeaccess.tv"><img class="link-img" src="img/logo-ratv.png"></a>
-                   </div>
-       </div>
-</div>
+        document.addEventListener("mousemove", onDocumentMouseMove);
 
-    
-    <!-- New Vintage Design -->
-        <div class="video-container">
-            <img class="video" src="img/nvd.png">
-                
-                <div class="link-container">
-                        <div class="text medium black-under">New Vintage Design<!--Find your inner guitarist-->
-                        </div>
-                        <div class="text-websites black-under">Old doors.<br>New Design. <!--How does it feel<br>to be on top<br>of the world?-->
-                        </div>
-                        
-                        <div style="color:white"><!--How does it feel<br>to be on top<br>of the world?-->
-                        </div>
-                    <div class="link-box">
-                            <!--<a href="https://newvintage.carrd.co/"><img class="link-img" src="https://raw.githubusercontent.com/cesanag/cesanag.github.io/master/img/media_temp/logo-door-2.png"></a> -->
-                            <a href="https://cesana.me/newvintage.github.io"><img class="link-img" src="img/logo-nvd.png"></a>
+        function myFunction(x) {
+          if (!x.matches) {
+            // If media query matches
+            function startup() {
+              var el = document.getElementsByTagName("canvas");
+              el.addEventListener("touchstart", handleStart, false);
+              el.addEventListener("touchend", handleEnd, false);
+              el.addEventListener("touchcancel", handleCancel, false);
+              el.addEventListener("touchmove", handleMove, false);
+            }
 
-                        </div>
-                </div>
-        </div>
-    
-</div>
-<!-- 
-        <div class="video-container" style="background-color: #ffffff">
-            <video class="video" playsinline autoplay muted loop style="opacity:0.6">
-                <source src="https://videos.pond5.com/slow-motion-fast-motorcycle-motorsport-footage-111343654_main_xl.mp4">              
-            </video>
-                
-                <div class="link-container">
-                        <div class="text medium black-under">Feel the adrenaline Find your inner guitarist
-                        </div>
-                        <div class="text-websites black-under">High speed motorcycle service. How does it feel<br>to be on top<br>of the world?
-                        </div>
-                        
-                        <div style="color:white"> How does it feel<br>to be on top<br>of the world?
-                        </div>
-                    <div class="link-box">
-                            <a href=""><img class="link-img" src="https://raw.githubusercontent.com/cesanag/cesanag.github.io/master/img/media_temp/logo-door-2.png"></a>
-                    </div>
-                    
-                
-                </div>
-        </div>
-   -->
-   <!-- <div class="other-container">
-    <div class="text medium codeFont">My Pens</div> 
-</div>
+            document.addEventListener("DOMContentLoaded", startup);
+          }
+        }
 
-<p class="codepen" data-height="500" data-theme-id="dark" data-default-tab="js,result" data-user="Cesanag" data-slug-hash="vYNwaBN" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Tetris">
-  <span>See the Pen <a href="https://codepen.io/Cesanag/pen/vYNwaBN">
-  Tetris</a> by Cesanag (<a href="https://codepen.io/Cesanag">@Cesanag</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-    
-    <p class="codepen" data-height="250" data-theme-id="dark" data-default-tab="js,result" data-user="gcesana" data-slug-hash="abbMZyd" style="height: 250px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Every function name is a random alphanumeric code made by the function itself">
-        <span>See the Pen <a href="https://codepen.io/gcesana/pen/abbMZyd">
-        Every function name is a random alphanumeric code made by the function itself</a> by gcesana (<a href="https://codepen.io/gcesana">@gcesana</a>)
-        on <a href="https://codepen.io">CodePen</a>.</span>
-      </p>
-      <script async src="https://static.codepen.io/assets/embed/ei.js"></script> -->
+        var x = window.matchMedia("(max-width: 1000px)");
+        myFunction(x); // Call listener function at run time
+        x.addListener(myFunction); // Attach listener function on state changes
 
-<div class="other-container">
-            <div class="text medium codeFont">My Commercial Videos</div> <!--And stock video producer-->
-</div> 
-        <div class="video-container">
-            <img class="video" src="img/hacker.png">
-                
-                <div class="link-container">
-                        <div class="text medium">
-                        </div>
-                        <div class="link-box">
-                            <a href="https://www.pond5.com/artist/meyer_solutions#1/2063"><img class="link-img agency" src="img/logo-pond5.png"></a>
-                    </div>
-                </div>
-        </div>
+        init();
+        animate();
 
-        <div class="video-container">
-            <img class="video" src="img/slack.png">
+        function init() {
+          const container = document.createElement("div");
+          document.body.appendChild(container);
 
-                <div class="link-container">
-                        <div class="text medium">
-                        </div>
-                        <div class="link-box">
-                            <a href="https://www.shutterstock.com/g/meyer_solutions"><img class="link-img agency" src="img/logo_shutterstock.png"></a>
-                    </div>                
-                </div>
-        </div>
+          camera = new THREE.PerspectiveCamera(
+            60,
+            window.innerWidth / window.innerHeight,
+            1,
+            10000
+          );
+          camera.position.z = 3200;
 
-        <div class="video-container">
-            <img class="video" src="img/boxe.png">
-                
-                <div class="link-container">
-                        <div class="text medium">
-                        </div>
-                        <div class="link-box">
-                            <a href="https://stock.adobe.com/it/contributor/207411677/meyer_solutions"><img class="link-img agency" src="img/logo_adobe.png"></a>
-                    </div>
-                </div>
-        </div>
-        <div class="video-container">
-           
-            <img class="video" src="img/skate.png">
-                
-                <div class="link-container">
-                        <div class="text medium">
-                        </div>
-                        <div class="link-box">
-                            <a href="https://creator-en.pixtastock.com/@prof1147955/footage"><img class="link-img agency" src="img/logo_pixta.png"></a>
-                    </div>
-                    
-                
-                </div>
-        </div>
-<!--
-        <div class="other-container-sotto" style="background-color:black">
-                        
-            <div class="link-box">
-                <a href="https://www.shutterstock.com/g/meyer_solutions"><img class="link-img agency" src="https://i.ibb.co/TWmLQjd/logo-shutterstock.png"></a>
-        </div>
-        <div class="link-box">
-                <a href="https://www.pond5.com/artist/meyer_solutions#1/2063"><img class="link-img agency" src="https://i.ibb.co/QM7vY6q/logo-pond5.png"></a>
-        </div>
+          scene = new THREE.Scene();
+          scene.background = new THREE.Color(0xffffff);
+          scene.matrixAutoUpdate = false;
 
-        <div class="link-box">
-                <a href="https://stock.adobe.com/it/contributor/207411677/meyer_solutions"><img class="link-img agency" src="https://i.ibb.co/kMFPZFj/logo-adobe.png"></a>
-        </div>
-        <div class="link-box">
-                <a href="https://creator-en.pixtastock.com/@prof1147955/footage"><img class="link-img agency" src="https://i.ibb.co/mHd8bMt/logo-pixta.png"></a>
-        </div>
-    </div>
-</div>  
--->
+          const material = new THREE.MeshNormalMaterial();
 
-<!--
-<div class="other-container">
-    <div class="text medium codeFont" style="color:blacK;margin:2rem">I'm fluent in</div>            
-</div> 
-        <div class="proof-container">
-                <div class="proof">
-                    <div class="proof_column_webdev">
-                                <img class="proof_icon webdev" src="https://raw.githubusercontent.com/cesanag/cesanag.github.io/master/img/logo-js.png">
-                                <div class="proof_column_sotto">
-                                    <div class="proof_text"><b>JavaScript</b></div>
-                                    <div class="proof_text small">ES6, JQuery, Handlebars</div>
-                                </div>
-                    </div>
-                    <div class="proof_column_webdev">
-                            <img class="proof_icon webdev" src="https://raw.githubusercontent.com/cesanag/cesanag.github.io/master/img/logo-css.png">
-                            <div class="proof_column_sotto">
-                                <div class="proof_text"><b>CSS</b></div>
-                                <div class="proof_text small">CSS3, Saas, Flex</div>
-                            </div>
-                        </div>
-                    <div class="proof_column_webdev">
-                        <img class="proof_icon webdev" src="https://raw.githubusercontent.com/cesanag/cesanag.github.io/master/img/logo-html.png">
-                        <div class="proof_column_sotto">
-                            <div class="proof_text"><b>HTML</b></div>
-                            <div class="proof_text small">HTML5, Bootstrap</div>
-                        </div>
-                    </div>
-                    
-                    
-                </div>
-        
-                
-                       
-        </div>
--->
-        
-<!--
-        <div class="img-container" id="video-producer"style="background-color:black">
-                <img class="img" style="opacity:0.4"src="https://gorodenkoff.com/wp-content/uploads/2019/01/A050_C127_0529KO.0000283.jpeg">
-           
-                    
-                <div class="link-container">
-                    
-                    <div class="text big"> Video Production
-                    </div>
-                    
-                </div>
-        </div>
--->
+          const loader = new THREE.BufferGeometryLoader();
+          loader.load("./js/model.json", function (geometry) {
+            geometry.computeVertexNormals();
 
-            <div class="other-container">
-                    <div class="text medium codeFont">My Commercial Video SHowreel</div>   <!--I have a commercial video showreel-->
-            </div>
-        
-        
+            for (let i = 0; i < 7700; i++) {
+              const mesh = new THREE.Mesh(geometry, material);
 
-        <div class="showreel-container"> 
-            
-            <div>
-                <iframe class="video-showreel"src="https://www.youtube.com/embed/vMMCqIg4Pks" width="560" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>
-    <!--
-        <div class="other-container">
-                <div class="text medium" style="color:black;margin:2rem">YOU CAN FIND MY WORKS HERE</div>            
-        </div>   
-    -->
-<!--
-                
-                <div class="proof-container">
-                        <div class="proof">
-                            <div class="proof_column">
-                                <img class="proof_icon" src="https://raw.githubusercontent.com/cesanag/cesanag.github.io/master/img/icon-4k.png">
-                                <div class="proof_column_sotto">
-                                    <div class="proof_text"><b>4k+ UHD</b></div>
-                                    <div class="proof_text small">Ultra HD video for professional industry standards.</div>
-                                </div>
-                            </div>
-                            <div class="proof_column">
-                                <img class="proof_icon" src="https://raw.githubusercontent.com/cesanag/cesanag.github.io/master/img/icon-approved.png">
-                                <div class="proof_column_sotto">
-                                        <div class="proof_text"><b>Premium Quality</b></div>
-                                        <div class="proof_text small">Trusted by the best agencies in the world.</div>
-                                    </div>
-                            </div>
-                            
-                           
-                        </div>
-                    </div>  
+              mesh.position.x = Math.random() * 10000 - 5000;
+              mesh.position.y = Math.random() * 10000 - 5000;
+              mesh.position.z = Math.random() * 10000 - 5000;
+              mesh.rotation.x = Math.random() * 2 * Math.PI;
+              mesh.rotation.y = Math.random() * 2 * Math.PI;
+              mesh.scale.x =
+                mesh.scale.y =
+                mesh.scale.z =
+                  Math.random() * 50 + 100;
+              mesh.matrixAutoUpdate = false;
+              mesh.updateMatrix();
 
-           <div class="other-container">
-                        <div class="text medium codeFont" style="color:black;margin:2rem">Companies who use my footage:</div>            
-             </div> 
+              scene.add(mesh);
+            }
+          });
 
-            
-                <div class="company-container">
-                    <div class="company_column">
-                        <img class="company" src="https://raw.githubusercontent.com/cesanag/cesanag.github.io/master/img/logo-companies-other.png">
-                        <img class="company" src="https://raw.githubusercontent.com/cesanag/cesanag.github.io/master/img/logo-companies-guitar.png">
-                        <img class="company" src="https://raw.githubusercontent.com/cesanag/cesanag.github.io/master/img/logo-companies-rope.png">
-                    </div>
-                </div>
-                
-                <button><a href="https://raw.githubusercontent.com/cesanag/cesanag.github.io/master/img/rsm_eng_2020.pdf">resume</a></button>
-            
--->
+          renderer = new THREE.WebGLRenderer();
+          renderer.setPixelRatio(window.devicePixelRatio);
+          renderer.setSize(window.innerWidth, window.innerHeight);
 
-</body>
-<footer class="other-container" style="padding:1rem;">
-    <div class="text small codeFont" style="color:white">&copy; 2021 - Cesana.me. All rights reserved</div>
-</footer>
+          container.appendChild(renderer.domElement);
+
+          window.addEventListener("resize", onWindowResize);
+        }
+
+        function onWindowResize() {
+          windowHalfX = window.innerWidth / 2;
+          windowHalfY = window.innerHeight / 2;
+
+          camera.aspect = window.innerWidth / window.innerHeight;
+          camera.updateProjectionMatrix();
+
+          renderer.setSize(window.innerWidth, window.innerHeight);
+        }
+
+        function onDocumentMouseMove(event) {
+          mouseX = (event.clientX - windowHalfX) * 10;
+          mouseY = (event.clientY - windowHalfY) * 10;
+        }
+
+        //
+
+        function animate() {
+          requestAnimationFrame(animate);
+
+          render();
+        }
+
+        function render() {
+          camera.position.x += (mouseX - camera.position.x) * 0.05;
+          camera.position.y += (-mouseY - camera.position.y) * 0.05;
+
+          camera.lookAt(scene.position);
+
+          renderer.render(scene, camera);
+        }
+      </script>
+    </main>
+  </body>
 </html>
