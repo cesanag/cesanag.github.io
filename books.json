@@ -4,2813 +4,3263 @@
     "cognomeAutore": "Orwell",
     "nomeAutore": "George",
     "annoLettura": 2005,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/91p6NmB03zL._AC_UL260_.jpg"
   },
   {
     "titolo": "22/11/63",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
     "annoLettura": 2016,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/912+Ns+CEBL._AC_UL260_.jpg"
   },
   {
     "titolo": "99 domande sull'ebraismo",
     "cognomeAutore": "Rotschild",
     "nomeAutore": "Walter",
     "annoLettura": 2018,
-    "categoria": "nonFiction"
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41bl4wey-9L._SY260_.jpg"
   },
   {
     "titolo": "A letto con David",
     "cognomeAutore": "Brenna",
     "nomeAutore": "Stefano",
     "annoLettura": 2014,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://images-eu.ssl-images-amazon.com/images/I/413Sa3iXfJL._SY260.jpg"
   },
   {
     "titolo": "A volte ritornano",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
     "annoLettura": 2008,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/81LuYPHj+-L._AC_UY260_.jpg"
   },
   {
     "titolo": "Abbracciati da sola che c'ho da andà via",
     "cognomeAutore": "Migone",
     "nomeAutore": "Paolo",
     "annoLettura": 2006,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/41TboEZzTPL._AC_UY260_.jpg"
   },
   {
     "titolo": "Achille piè veloce",
     "cognomeAutore": "Benni",
     "nomeAutore": "Stefano",
     "annoLettura": 2014,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51XO7aUw7mL._AC_UY260_.jpg"
   },
   {
     "titolo": "Alice nel paese delle meraviglie",
     "cognomeAutore": "Carroll",
     "nomeAutore": "Lewis",
     "annoLettura": 2019,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/91T-gu2NzLL._AC_UY260_.jpg"
   },
   {
     "titolo": "Alla ricerca degli dei solari",
     "cognomeAutore": "Homet",
     "nomeAutore": "Marcel",
     "annoLettura": 2018,
-    "categoria": "nonFiction"
+    "categoria": "nonFiction",
+    "img": "https://images-eu.ssl-images-amazon.com/images/I/41FQo4F6R3L._SY260.jpg"
   },
   {
     "titolo": "Allucinazioni",
     "cognomeAutore": "Sacks",
     "nomeAutore": "Oliver",
     "annoLettura": 2015,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/71BtMGv++vL._AC_UY260_.jpg"
+  },
+  {
+    "titolo": "Altre inquisizioni",
+    "cognomeAutore": "Borges",
+    "nomeAutore": "Jorge Louis",
+    "annoLettura": 2018,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/81U+guZsRQL._AC_UL260_.jpg"
   },
   {
     "titolo": "Amon il macellaio",
     "cognomeAutore": "Pavetto",
     "nomeAutore": "Lucas",
     "annoLettura": 2020,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/81Wqh2muPUL._AC_UL260_.jpg"
   },
   {
     "titolo": "Andare per ghetti e giudecche",
     "cognomeAutore": "Foa",
     "nomeAutore": "Anna",
     "annoLettura": 2021,
-    "categoria": "nonFiction"
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51AvVWfhGhL._SL260_.jpg"
   },
   {
     "titolo": "Angeli e Demoni",
     "cognomeAutore": "Brown",
     "nomeAutore": "Dan",
     "annoLettura": 2009,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/91ajCz8o90L._AC_UL260_.jpg"
   },
   {
     "titolo": "Arancia meccanica",
     "cognomeAutore": "Burgess",
     "nomeAutore": "Anthony",
     "annoLettura": 2011,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61hoQ1AnUTL._AC_UL260_.jpg"
   },
   {
     "titolo": "Armi, acciaio e malattie",
     "cognomeAutore": "Diamond",
     "nomeAutore": "Jared",
     "annoLettura": 2018,
-    "categoria": "nonFiction"
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/71ytQhvhQWL._AC_UL260_.jpg"
   },
   {
     "titolo": "Artemis Fowl",
     "cognomeAutore": "Colfer",
     "nomeAutore": "Eoin",
     "annoLettura": 2001,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/813L-55KU-L._AC_UL260_.jpg"
   },
   {
     "titolo": "Artemis Fowl - Il codice Eternity",
     "cognomeAutore": "Colfer",
     "nomeAutore": "Eoin",
     "annoLettura": 2001,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Artemis Fowl - L'incidente artico",
     "cognomeAutore": "Colfer",
     "nomeAutore": "Eoin",
     "annoLettura": 2001,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Artemis Fowl - L'inganno di Opal",
     "cognomeAutore": "Colfer",
     "nomeAutore": "Eoin",
     "annoLettura": 2001,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Ascensore per lo spazio",
     "cognomeAutore": "Madia",
     "nomeAutore": "Claudio",
     "annoLettura": 2001,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Auschwitz, città tranquilla",
     "cognomeAutore": "Levi",
     "nomeAutore": "Primo",
     "annoLettura": 2021,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51R6W4+fWML._SL260_.jpg"
   },
   {
     "titolo": "Balle grosse S.P.A.",
     "cognomeAutore": "Luciani",
     "nomeAutore": "Domenica",
     "annoLettura": 2003,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Bàrnabo delle montagne",
     "cognomeAutore": "Buzzati",
     "nomeAutore": "Dino",
     "annoLettura": 2019,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Bartleby lo scrivano",
     "cognomeAutore": "Melville",
     "nomeAutore": "Herman",
     "annoLettura": 2007,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Bergius",
     "cognomeAutore": "Viganò",
     "nomeAutore": "Tiziano",
     "annoLettura": 2019,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Bionda, nerissimamente bionda",
     "cognomeAutore": "Puccetti",
     "nomeAutore": "Roland",
     "annoLettura": 2014,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Blaze",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
     "annoLettura": 2007,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Bollito misto con mostarda",
     "cognomeAutore": "Luttazzi",
     "nomeAutore": "Daniele",
     "annoLettura": 2006,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Branchie",
     "cognomeAutore": "Ammaniti",
     "nomeAutore": "Niccolò",
     "annoLettura": 2019,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Breve storia del corpo umano",
     "cognomeAutore": "Bryson",
     "nomeAutore": "Bill",
     "annoLettura": 2020,
-    "categoria": "nonFiction"
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51vDOw9dzkL._SL260_.jpg"
   },
   {
     "titolo": "Breve storia di (quasi) tutto",
     "cognomeAutore": "Bryson",
     "nomeAutore": "Bill",
     "annoLettura": 2020,
-    "categoria": "nonFiction"
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51mw+lMOpwL._SL260_.jpg"
   },
   {
     "titolo": "Bruciata con l’acido",
     "cognomeAutore": "Naziran",
     "nomeAutore": "",
     "annoLettura": 2019,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Buick 8",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
     "annoLettura": 2005,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "C'era due volte il barone Lamberto",
     "cognomeAutore": "Rodari",
     "nomeAutore": "Gianni",
     "annoLettura": 2003,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Candido",
     "cognomeAutore": "Voltaire",
     "nomeAutore": "",
     "annoLettura": 2016,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Canto di Natale",
     "cognomeAutore": "Dickens",
     "nomeAutore": "Charles",
     "annoLettura": 2019,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Carrie",
     "cognomeAutore": "King",
     "nomeAutore": "Stephen",
     "annoLettura": 2004,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Caverna del tempo",
     "cognomeAutore": "Gordon",
     "nomeAutore": "Rex",
     "annoLettura": 2015,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Che la festa cominci",
-    "cognomeAutore": "Ammaniti",
-    "nomeAutore": "Niccolò",
-    "annoLettura": 2014,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Chi ha paura di Virginia Woolf",
-    "cognomeAutore": "Albee",
-    "nomeAutore": "Edward",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Christine",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2004,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Ciaula scopre la luna",
-    "cognomeAutore": "Pirandello",
-    "nomeAutore": "Luigi",
-    "annoLettura": 2021,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Cion cion blu",
-    "cognomeAutore": "Carpi",
-    "nomeAutore": "Pinin",
-    "annoLettura": 1999,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Come diventare un buddha in cinque settimane",
-    "cognomeAutore": "Giacobbe",
-    "nomeAutore": "Giulio Cesare",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Come non scrivere un romanzo",
-    "cognomeAutore": "Mittelmark",
-    "nomeAutore": "Howard",
-    "annoLettura": 2019,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Come scrivere una grande sceneggiatura",
-    "cognomeAutore": "Seger",
-    "nomeAutore": "Linda",
-    "annoLettura": 2014,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Come sono guarito dalla miopia",
-    "cognomeAutore": "De Angelis",
-    "nomeAutore": "David",
-    "annoLettura": 2009,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Comici spaventati guerrieri",
-    "cognomeAutore": "Benni",
-    "nomeAutore": "Stefano",
-    "annoLettura": 2007,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Confessioni ultime",
-    "cognomeAutore": "Corona",
-    "nomeAutore": "Mauro",
-    "annoLettura": 2015,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Coscienza di Zeno",
-    "cognomeAutore": "Svevo",
-    "nomeAutore": "Italo",
-    "annoLettura": 2003,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Cose preziose",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2005,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Crypto",
-    "cognomeAutore": "Brown",
-    "nomeAutore": "Dan",
-    "annoLettura": 2004,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Cucina futurista",
-    "cognomeAutore": "Marinetti",
-    "nomeAutore": "Filippo Tommaso",
-    "annoLettura": 2019,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Cujo",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2003,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Cuore",
-    "cognomeAutore": "De Amicis",
-    "nomeAutore": "Edmondo",
-    "annoLettura": 2000,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Cuore di cane",
-    "cognomeAutore": "Bulgakov",
-    "nomeAutore": "Michail",
-    "annoLettura": 2012,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Cuore di tenebra",
-    "cognomeAutore": "Conrad",
-    "nomeAutore": "Joseph",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Dalla terra alla luna",
-    "cognomeAutore": "Verne",
-    "nomeAutore": "Jules",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Diario",
-    "cognomeAutore": "Frank",
-    "nomeAutore": "Anne",
-    "annoLettura": 2003,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Diario inconsapevole",
-    "cognomeAutore": "Tornatore",
-    "nomeAutore": "Giuseppe",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Dieci piccoli indiani",
-    "cognomeAutore": "Christie",
-    "nomeAutore": "Agatha",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Dieci ragioni per cancellare subito i tuoi account social",
-    "cognomeAutore": "Lanier",
-    "nomeAutore": "Jaron",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Diventare milionario",
-    "cognomeAutore": "Ruggeri",
-    "nomeAutore": "Paolo",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Donne",
-    "cognomeAutore": "Bukowski",
-    "nomeAutore": "Charles",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Dove la terra brucia",
-    "cognomeAutore": "Rosso",
-    "nomeAutore": "Francesco",
-    "annoLettura": 2018,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Dracula",
-    "cognomeAutore": "Stoker",
-    "nomeAutore": "Bram",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Duplicatori",
-    "cognomeAutore": "Shea",
-    "nomeAutore": "Harold",
-    "annoLettura": 2016,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "E la donna? Fuma fuma!",
-    "cognomeAutore": "Cremona",
-    "nomeAutore": "Raul",
-    "annoLettura": 2005,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Educazione per un mondo nuovo",
-    "cognomeAutore": "Montessori",
-    "nomeAutore": "Maria",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Elianto",
-    "cognomeAutore": "Benni",
-    "nomeAutore": "Stefano",
-    "annoLettura": 2012,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Elogio del silenzio",
-    "cognomeAutore": "Biguenet",
-    "nomeAutore": "John",
-    "annoLettura": 2018,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Enigmi e misteri della storia",
-    "cognomeAutore": "Polidoro",
-    "nomeAutore": "Massimo",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Enzo Ferrari: il grande Drake",
-    "cognomeAutore": "Principi",
-    "nomeAutore": "Patrizia",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Esercizi di stile",
-    "cognomeAutore": "Queneau",
-    "nomeAutore": "Raymond",
-    "annoLettura": 2015,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Fango",
-    "cognomeAutore": "Ammaniti",
-    "nomeAutore": "Niccolò",
-    "annoLettura": 2014,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Fare un film",
-    "cognomeAutore": "Fellini",
-    "nomeAutore": "Federico",
-    "annoLettura": 2014,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Farenheit 451",
-    "cognomeAutore": "Bradbury",
-    "nomeAutore": "Ray",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Favole al telefono",
-    "cognomeAutore": "Rodari",
-    "nomeAutore": "Gianni",
-    "annoLettura": 1998,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Fight Club",
-    "cognomeAutore": "Palahniuk",
-    "nomeAutore": "Chuck",
-    "annoLettura": 2014,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Filastrocche in cielo e in terra",
-    "cognomeAutore": "Rodari",
-    "nomeAutore": "Gianni",
-    "annoLettura": 2001,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Finanza e credito in Italia",
-    "cognomeAutore": "Cesarini",
-    "nomeAutore": "Francesco",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Fino a quando",
-    "cognomeAutore": "Linus",
-    "nomeAutore": "",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Fisica della lavatrice",
-    "cognomeAutore": "Woodford",
-    "nomeAutore": "Chris",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Flatlandia",
-    "cognomeAutore": "Abbott",
-    "nomeAutore": "Edwin A.",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Fozza Cina",
-    "cognomeAutore": "Carreras",
-    "nomeAutore": "Sabrina",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Franco, oh franco!",
-    "cognomeAutore": "Neri",
-    "nomeAutore": "Franco",
-    "annoLettura": 2005,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Fratelli di truffa",
-    "cognomeAutore": "Mottola",
-    "nomeAutore": "Giorgio",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Gli occhi del drago",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Gli spaventevoli egizi",
-    "cognomeAutore": "Deary",
-    "nomeAutore": "Terry",
-    "annoLettura": 2000,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Gli sporcelli",
-    "cognomeAutore": "Dahl",
-    "nomeAutore": "Roald",
-    "annoLettura": 1999,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Goal economy",
-    "cognomeAutore": "Bellinazzo",
-    "nomeAutore": "Marco",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Goebbels, il diavolo zoppo",
-    "cognomeAutore": "Pavetto",
-    "nomeAutore": "Lucas",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Gomorra",
-    "cognomeAutore": "Saviano",
-    "nomeAutore": "Roberto",
-    "annoLettura": 2009,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Growth Hacking Copywriting",
-    "cognomeAutore": "Taylor",
-    "nomeAutore": "Ray",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Growth Hacking Storytelling",
-    "cognomeAutore": "Taylor",
-    "nomeAutore": "Ray",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Hacker Republic",
-    "cognomeAutore": "Ghioni",
-    "nomeAutore": "Fabio",
-    "annoLettura": 2012,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Harry Potter e i doni della morte",
-    "cognomeAutore": "Rowling",
-    "nomeAutore": "J.K.",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Harry Potter e il calice di fuoco",
-    "cognomeAutore": "Rowling",
-    "nomeAutore": "J.K.",
-    "annoLettura": 2004,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Harry Potter e il mistero di Azkaban",
-    "cognomeAutore": "Rowling",
-    "nomeAutore": "J.K.",
-    "annoLettura": 2002,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Harry Potter e il principe mezzosangue",
-    "cognomeAutore": "Rowling",
-    "nomeAutore": "J.K.",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Harry Potter e l'Ordine della Fenice",
-    "cognomeAutore": "Rowling",
-    "nomeAutore": "J.K.",
-    "annoLettura": 2005,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Harry Potter e la camera dei segreti",
-    "cognomeAutore": "Rowling",
-    "nomeAutore": "J.K.",
-    "annoLettura": 1999,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Harry Potter e la pietra filosofale",
-    "cognomeAutore": "Rowling",
-    "nomeAutore": "J.K.",
-    "annoLettura": 1999,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Ho sposato una vegana",
-    "cognomeAutore": "Brizzi",
-    "nomeAutore": "Fausto",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Homo Dieteticus",
-    "cognomeAutore": "Niola",
-    "nomeAutore": "Marino",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Horror",
-    "cognomeAutore": "Horowitz",
-    "nomeAutore": "Anthony",
-    "annoLettura": 2000,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "I fondi comuni di investimento",
-    "cognomeAutore": "Cesarini",
-    "nomeAutore": "Francesco",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "I mille volti del terrore",
-    "cognomeAutore": "Page",
-    "nomeAutore": "Gerald",
-    "annoLettura": 2009,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "I misteri dell'universo",
-    "cognomeAutore": "Kolosimo",
-    "nomeAutore": "Peter",
-    "annoLettura": 2018,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "I miti di Chtulhu",
-    "cognomeAutore": "Lovecraft",
-    "nomeAutore": "H.P.",
-    "annoLettura": 2012,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "I nomadi",
-    "cognomeAutore": "Steinbeck",
-    "nomeAutore": "John",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "I paradisi artificiali",
-    "cognomeAutore": "Baudelaire",
-    "nomeAutore": "Charles",
-    "annoLettura": 2012,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "I pilastri della terra",
-    "cognomeAutore": "Follett",
-    "nomeAutore": "Ken",
-    "annoLettura": 2004,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "I pirati della malesia",
-    "cognomeAutore": "Salgari",
-    "nomeAutore": "Emilio",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "I promessi sposi",
-    "cognomeAutore": "Manzoni",
-    "nomeAutore": "Alessandro",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "I rifiuti",
-    "cognomeAutore": "Massarutto",
-    "nomeAutore": "Antonino",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "I sette peccati di Hollywood",
-    "cognomeAutore": "Fallaci",
-    "nomeAutore": "Oriana",
-    "annoLettura": 2021,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "I sindacati",
-    "cognomeAutore": "Carrieri",
-    "nomeAutore": "Mimmo",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "I sogni e il modo di dirigerli",
-    "cognomeAutore": "De Saint-Denys",
-    "nomeAutore": "Hervey",
-    "annoLettura": 2011,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "I sommersi e i salvati",
-    "cognomeAutore": "Levi",
-    "nomeAutore": "Primo",
-    "annoLettura": 2021,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "I vendicatori",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il bar sotto il mare",
-    "cognomeAutore": "Benni",
-    "nomeAutore": "Stefano",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il brigante pennastorta",
-    "cognomeAutore": "Preussler",
-    "nomeAutore": "Otfried",
-    "annoLettura": 2000,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il cacciatore di draghi",
-    "cognomeAutore": "Tolkien",
-    "nomeAutore": "J.R.R.",
-    "annoLettura": 2003,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il cancro",
-    "cognomeAutore": "Fortune",
-    "nomeAutore": "Editors of",
-    "annoLettura": 2018,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il canto delle manere",
-    "cognomeAutore": "Corona",
-    "nomeAutore": "Mauro",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il castello",
-    "cognomeAutore": "Kafka",
-    "nomeAutore": "Franz",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il castello di Otranto",
-    "cognomeAutore": "Walpole",
-    "nomeAutore": "Horace",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il cimitero di Praga",
-    "cognomeAutore": "Eco",
-    "nomeAutore": "Umberto",
-    "annoLettura": 2010,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il cinema secondo Hitchcock",
-    "cognomeAutore": "Truffaut",
-    "nomeAutore": "Francois",
-    "annoLettura": 2016,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il club dei suicidi",
-    "cognomeAutore": "Stevenson",
-    "nomeAutore": "Robert Louis",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il codice Da Vinci",
-    "cognomeAutore": "Brown",
-    "nomeAutore": "Dan",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il colombre",
-    "cognomeAutore": "Buzzati",
-    "nomeAutore": "Dino",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il conte di Montecristo",
-    "cognomeAutore": "Dumas",
-    "nomeAutore": "Alexander",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il curioso caso di Benjamin Button",
-    "cognomeAutore": "Scott Fitzgerald",
-    "nomeAutore": "Francis",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il deserto dei tartari",
-    "cognomeAutore": "Buzzati",
-    "nomeAutore": "Dino",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il falso testamento",
-    "cognomeAutore": "Biglino",
-    "nomeAutore": "Mauro",
-    "annoLettura": 2019,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il filo del rasoio",
-    "cognomeAutore": "Maugham",
-    "nomeAutore": "W.S",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il fu Mattia Pascal",
-    "cognomeAutore": "Pirandello",
-    "nomeAutore": "Luigi",
-    "annoLettura": 2010,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il gabbiano Jonathan Livingston",
-    "cognomeAutore": "Back",
-    "nomeAutore": "Richard",
-    "annoLettura": 2003,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il genio non esiste",
-    "cognomeAutore": "X",
-    "nomeAutore": "Barbascura",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il gioco di Gerald",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2004,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il giornalino di Gian Burrasca",
-    "cognomeAutore": "Vamba",
-    "nomeAutore": "",
-    "annoLettura": 2002,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il giovane Holden",
-    "cognomeAutore": "Salinger",
-    "nomeAutore": "J.D.",
-    "annoLettura": 2005,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il giro del mondo in ottanta giorni",
-    "cognomeAutore": "Verne",
-    "nomeAutore": "Jules",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il grande Gatsby",
-    "cognomeAutore": "Scott Fitzgerald",
-    "nomeAutore": "Francis",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il grande Gualino",
-    "cognomeAutore": "Caponetti",
-    "nomeAutore": "Giorgio",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il grande imbroglio",
-    "cognomeAutore": "Righi",
-    "nomeAutore": "Stefano",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il guardiano dei sogni",
-    "cognomeAutore": "Lovecraft",
-    "nomeAutore": "H.P.",
-    "annoLettura": 2014,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il libro dei mostri",
-    "cognomeAutore": "Coville",
-    "nomeAutore": "Bruce",
-    "annoLettura": 2003,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il libro della giungla",
-    "cognomeAutore": "Kipling",
-    "nomeAutore": "Rudyard",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il libro di sabbia",
-    "cognomeAutore": "Borges",
-    "nomeAutore": "Jorge Louis",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il libro segreto di Shakespeare",
-    "cognomeAutore": "Underwood",
-    "nomeAutore": "John",
-    "annoLettura": 2007,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il magico poter del riordino",
-    "cognomeAutore": "Kondo",
-    "nomeAutore": "Marie",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il martello dell'Eden",
-    "cognomeAutore": "Follet",
-    "nomeAutore": "Ken",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il matrimonio del cielo e dell’inferno",
-    "cognomeAutore": "Blake",
-    "nomeAutore": "William",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il mercante di Venezia",
-    "cognomeAutore": "Shakespeare",
-    "nomeAutore": "William",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il messaggio dell'imperatore",
-    "cognomeAutore": "Kafka",
-    "nomeAutore": "Franz",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il metodo Aranzulla",
-    "cognomeAutore": "Aranzulla",
-    "nomeAutore": "Salvatore",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il microcredito",
-    "cognomeAutore": "Becchetti",
-    "nomeAutore": "Leonardo",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il miglio verde",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2004,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il milione",
-    "cognomeAutore": "Polo",
-    "nomeAutore": "Marco",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il mondo nuovo",
-    "cognomeAutore": "Huxley",
-    "nomeAutore": "Aldous",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il mondo perduto",
-    "cognomeAutore": "Doyle",
-    "nomeAutore": "Arthur Conan",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il mondo sottosopra",
-    "cognomeAutore": "Polidoro",
-    "nomeAutore": "Massimo",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il mondo visto dai libri",
-    "cognomeAutore": "Tuzzi",
-    "nomeAutore": "Hans",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il nome della rosa",
-    "cognomeAutore": "Eco",
-    "nomeAutore": "Umberto",
-    "annoLettura": 2003,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il paese dei ciechi",
-    "cognomeAutore": "Wells",
-    "nomeAutore": "H.G",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il pianeta dei bruchi",
-    "cognomeAutore": "Follett",
-    "nomeAutore": "Ken",
-    "annoLettura": 2001,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il piccolo principe",
-    "cognomeAutore": "De Saint-Exupéry",
-    "nomeAutore": "Antoine",
-    "annoLettura": 2001,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il più grande uomo scimmia del Pleistocene",
-    "cognomeAutore": "Lewis",
-    "nomeAutore": "Roy",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il popolo dell'abisso",
-    "cognomeAutore": "London",
-    "nomeAutore": "Jack",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il problema più difficile del mondo",
-    "cognomeAutore": "Wardle",
-    "nomeAutore": "Terry",
-    "annoLettura": 2002,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il processo",
-    "cognomeAutore": "Kafka",
-    "nomeAutore": "Franz",
-    "annoLettura": 2015,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il profumo",
-    "cognomeAutore": "Suskind",
-    "nomeAutore": "Patrick",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il pugno chiuso",
-    "cognomeAutore": "Boito",
-    "nomeAutore": "Arrigo",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il ragno nero",
-    "cognomeAutore": "Gotthelf",
-    "nomeAutore": "Jeremias",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il ramo d'oro",
-    "cognomeAutore": "Frazer",
-    "nomeAutore": "James",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il re del mondo",
-    "cognomeAutore": "Guénon",
-    "nomeAutore": "René",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il richiamo della foresta",
-    "cognomeAutore": "London",
-    "nomeAutore": "Jack",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il risparmio energetico",
-    "cognomeAutore": "Lorenzoni",
-    "nomeAutore": "Arturo",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il ritardo mentale",
-    "cognomeAutore": "Pfanner",
-    "nomeAutore": "Pietro",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il ritratto di Dorian Grey",
-    "cognomeAutore": "Wilde",
-    "nomeAutore": "Oscar",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il segreto del bosco vecchio",
-    "cognomeAutore": "Buzzati",
-    "nomeAutore": "Dino",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il sentiero dei nidi di ragno",
-    "cognomeAutore": "Calvino",
-    "nomeAutore": "Italo",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il signore delle mosche",
-    "cognomeAutore": "Golding",
-    "nomeAutore": "William",
-    "annoLettura": 2009,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il simbolo perduto",
-    "cognomeAutore": "Brown",
-    "nomeAutore": "Dan",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il sonno e i suoi distubi",
-    "cognomeAutore": "Lugaresi",
-    "nomeAutore": "Elio",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il trucco c'è e si vede",
-    "cognomeAutore": "Mautino",
-    "nomeAutore": "Beatrice",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il vagabondo delle stelle",
-    "cognomeAutore": "London",
-    "nomeAutore": "Jack",
-    "annoLettura": 2015,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il vecchio e il mare",
-    "cognomeAutore": "Hemingway",
-    "nomeAutore": "Ernest",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il viaggio dell'eroe",
-    "cognomeAutore": "Vogler",
-    "nomeAutore": "Christopher",
-    "annoLettura": 2015,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Il visconte dimezzato",
-    "cognomeAutore": "Calvino",
-    "nomeAutore": "Italo",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Il volo del calabrone",
-    "cognomeAutore": "Follett",
-    "nomeAutore": "Ken",
-    "annoLettura": 2005,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Incubi & deliri",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2007,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Inferiori",
-    "cognomeAutore": "Saini",
-    "nomeAutore": "Angela",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Inferno",
-    "cognomeAutore": "Brown",
-    "nomeAutore": "Dan",
-    "annoLettura": 2009,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Insomnia",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Io e Ennio Morricone",
-    "cognomeAutore": "De Rosa",
-    "nomeAutore": "Alessandro",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Io sono l'impostore",
-    "cognomeAutore": "Proto",
-    "nomeAutore": "Alessandro",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Io uccido",
-    "cognomeAutore": "Faletti",
-    "nomeAutore": "Giorgio",
-    "annoLettura": 2005,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Io vivo nell'ombra",
-    "cognomeAutore": "Comandante Alfa",
-    "nomeAutore": "",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "It",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Jack Frusciante è uscito dal gruppo",
-    "cognomeAutore": "Brizzi",
-    "nomeAutore": "Enrico",
-    "annoLettura": 2004,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Kamasutra",
-    "cognomeAutore": "Vatsyayana",
-    "nomeAutore": "Mallanaga",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Kamo",
-    "cognomeAutore": "Pennac",
-    "nomeAutore": "Daniel",
-    "annoLettura": 2002,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Kim",
-    "cognomeAutore": "Kipling",
-    "nomeAutore": "Rudyard",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Kitchen",
-    "cognomeAutore": "Yoshimoto",
-    "nomeAutore": "Banana",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Kitty Foyle",
-    "cognomeAutore": "Morley",
-    "nomeAutore": "Christopher",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'acchiappasogni",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2015,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'alba di un nuovo giorno",
-    "cognomeAutore": "Ripa",
-    "nomeAutore": "Alberto",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'ansia",
-    "cognomeAutore": "Farnè",
-    "nomeAutore": "Mario",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "L'arte del ventesimo secolo",
-    "cognomeAutore": "Riout",
-    "nomeAutore": "Denys",
-    "annoLettura": 2013,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "L'arte della guerra",
-    "cognomeAutore": "Tzu",
-    "nomeAutore": "Sun",
-    "annoLettura": 2015,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "L'arte di far soldi",
-    "cognomeAutore": "Barnum",
-    "nomeAutore": "P.T.",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "L'energia solare",
-    "cognomeAutore": "Menna",
-    "nomeAutore": "Pietro",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "L'incendiaria",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2005,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'industria delle immagini",
-    "cognomeAutore": "Balestrini",
-    "nomeAutore": "Luca",
-    "annoLettura": 2018,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "L'infanzia e il sogno - Il cinema di Fellini",
-    "cognomeAutore": "Iarussi",
-    "nomeAutore": "Oscar",
-    "annoLettura": 2014,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'infarto",
-    "cognomeAutore": "Cuccia",
-    "nomeAutore": "Claudio",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "L'inganno della scimmia",
-    "cognomeAutore": "Bonazzoli",
-    "nomeAutore": "Francesca",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'interpretazione dei sogni",
-    "cognomeAutore": "Freud",
-    "nomeAutore": "Sigmund",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'inventore di sogni",
-    "cognomeAutore": "McEwan",
-    "nomeAutore": "Ian",
-    "annoLettura": 2003,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'isola del tesoro",
-    "cognomeAutore": "Stevenson",
-    "nomeAutore": "Robert Louis",
-    "annoLettura": 2003,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'isola e le rose",
-    "cognomeAutore": "Veltroni",
-    "nomeAutore": "Walter",
-    "annoLettura": 2021,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'isola misteriosa",
-    "cognomeAutore": "Verne",
-    "nomeAutore": "Jules",
-    "annoLettura": 2021,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'Italia spensierata",
-    "cognomeAutore": "Piccolo",
-    "nomeAutore": "Francesco",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "L'occhio della piovra",
-    "cognomeAutore": "Brussolo",
-    "nomeAutore": "Serge",
-    "annoLettura": 2009,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'Odissea di Omero",
-    "cognomeAutore": "Zanetto",
-    "nomeAutore": "Giuseppe",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'ombra dello scorpione",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2010,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'orda",
-    "cognomeAutore": "Stella",
-    "nomeAutore": "Gian Antonio",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "L'ospite inquietante",
-    "cognomeAutore": "Galimberti",
-    "nomeAutore": "Umberto",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "L'ultimo cavaliere",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2015,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'uomo che cade",
-    "cognomeAutore": "DeLillo",
-    "nomeAutore": "Don",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'uomo che scambiò sua moglie per un cappello",
-    "cognomeAutore": "Sacks",
-    "nomeAutore": "Oliver",
-    "annoLettura": 2021,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "L'uomo invisibile",
-    "cognomeAutore": "Wells",
-    "nomeAutore": "H.G.",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La bussola d’oro",
-    "cognomeAutore": "Pullman",
-    "nomeAutore": "Philip",
-    "annoLettura": 2001,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La caduta dei giganti",
-    "cognomeAutore": "Follett",
-    "nomeAutore": "Ken",
-    "annoLettura": 2015,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La casa sopra i portici",
-    "cognomeAutore": "Verdone",
-    "nomeAutore": "Carlo",
-    "annoLettura": 2014,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "La città delle bestie",
-    "cognomeAutore": "Allende",
-    "nomeAutore": "Isabel",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La compagnia dei celestini",
-    "cognomeAutore": "Benni",
-    "nomeAutore": "Stefano",
-    "annoLettura": 2010,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La dieta Pareto 80/20",
-    "cognomeAutore": "De Angelis",
-    "nomeAutore": "David",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "La fabbrica di cioccolato",
-    "cognomeAutore": "Dahl",
-    "nomeAutore": "Roald",
-    "annoLettura": 2001,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La fattoria degli animali",
-    "cognomeAutore": "Orwell",
-    "nomeAutore": "George",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La geotermia",
-    "cognomeAutore": "Manzella",
-    "nomeAutore": "Adele",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "La giustizia amministrativa",
-    "cognomeAutore": "Corso",
-    "nomeAutore": "Guido",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "La grande rapina al treno",
-    "cognomeAutore": "Crichton",
-    "nomeAutore": "Michael",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La guerra dei mondi",
-    "cognomeAutore": "Wells",
-    "nomeAutore": "H.G.",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La lunga marcia",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2007,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La macchina del tempo",
-    "cognomeAutore": "Wells",
-    "nomeAutore": "H.G",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La madre",
-    "cognomeAutore": "Svevo",
-    "nomeAutore": "Italo",
-    "annoLettura": 2021,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La mala vita",
-    "cognomeAutore": "Mazzi",
-    "nomeAutore": "Maria Serena",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "La mosca",
-    "cognomeAutore": "Pirandello",
-    "nomeAutore": "Luigi",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La pendola stregata",
-    "cognomeAutore": "Bellairs",
-    "nomeAutore": "John",
-    "annoLettura": 2002,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La perla",
-    "cognomeAutore": "Steinbeck",
-    "nomeAutore": "John",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La peste scarlatta",
-    "cognomeAutore": "London",
-    "nomeAutore": "Jack",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La profezia di Celestino",
-    "cognomeAutore": "Redfield",
-    "nomeAutore": "James",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La pubblica amministrazione",
-    "cognomeAutore": "Cammelli",
-    "nomeAutore": "Marco",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "La quinta essenza",
-    "cognomeAutore": "Borzacchiello",
-    "nomeAutore": "Paolo",
-    "annoLettura": 2021,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La scimmia pensa, la scimmia fa",
-    "cognomeAutore": "Palahniuk",
-    "nomeAutore": "Chuck",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La società signorile di massa",
-    "cognomeAutore": "Ricolfi",
-    "nomeAutore": "Luca",
-    "annoLettura": 2019,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "La solitudine dei numeri primi",
-    "cognomeAutore": "Giordano",
-    "nomeAutore": "Paolo",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La storia del Dottor Dolittle",
-    "cognomeAutore": "Lofting",
-    "nomeAutore": "Hugh",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La strada del guerriero",
-    "cognomeAutore": "Baccalario",
-    "nomeAutore": "Pierdomenico",
-    "annoLettura": 2002,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La tregua",
-    "cognomeAutore": "Levi",
-    "nomeAutore": "Primo",
-    "annoLettura": 2021,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La verità dei ghiacci",
-    "cognomeAutore": "Brown",
-    "nomeAutore": "Dan",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "La vita in una frase",
-    "cognomeAutore": "Geary",
-    "nomeAutore": "James",
-    "annoLettura": 2019,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "La zona morta",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2015,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Lavoro",
-    "cognomeAutore": "Suzman",
-    "nomeAutore": "James",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Le avventure di Cipollino",
-    "cognomeAutore": "Rodari",
-    "nomeAutore": "Gianni",
-    "annoLettura": 2003,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Le bugie nel carrello",
-    "cognomeAutore": "Bressanini",
-    "nomeAutore": "Dario",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Le fondazioni",
-    "cognomeAutore": "Barbetta",
-    "nomeAutore": "Gian Paolo",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Le mie prigioni",
-    "cognomeAutore": "Pellico",
-    "nomeAutore": "Silvio",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Le mille e una morte",
-    "cognomeAutore": "McIntosh",
-    "nomeAutore": "J.T.",
-    "annoLettura": 2016,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Le porte della percezione",
-    "cognomeAutore": "Huxley",
-    "nomeAutore": "Aldous",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Le storie dell'orrore puro - L'incubo",
-    "cognomeAutore": "Lovecraft",
-    "nomeAutore": "H.P.",
-    "annoLettura": 2009,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Le streghe",
-    "cognomeAutore": "Dahl",
-    "nomeAutore": "Roald",
-    "annoLettura": 2000,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Leonardo Del Vecchio",
-    "cognomeAutore": "Aboulabil",
-    "nomeAutore": "Asmaa",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Lezioni americane",
-    "cognomeAutore": "Calvino",
-    "nomeAutore": "Italo",
-    "annoLettura": 2019,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Liberazione animale",
-    "cognomeAutore": "Singer",
-    "nomeAutore": "Peter",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "ll giorno della civetta",
-    "cognomeAutore": "Sciascia",
-    "nomeAutore": "Leonardo",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Lo cunto de li cunti",
-    "cognomeAutore": "Basile",
-    "nomeAutore": "Giambattista",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Lo scandalo Modigliani",
-    "cognomeAutore": "Follett",
-    "nomeAutore": "Ken",
-    "annoLettura": 2003,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Lo schermo dei sogni",
-    "cognomeAutore": "Albano",
-    "nomeAutore": "Lucilla",
-    "annoLettura": 2014,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Lo straniero misterioso",
-    "cognomeAutore": "Twain",
-    "nomeAutore": "Mark",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Lo strano caso del cane ucciso a mezzanotte",
-    "cognomeAutore": "Haddon",
-    "nomeAutore": "Mark",
-    "annoLettura": 2005,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Lode alle tette",
-    "cognomeAutore": "Baffo",
-    "nomeAutore": "Giorgio",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "LSD, il mio bambino difficile",
-    "cognomeAutore": "Hofman",
-    "nomeAutore": "Albert",
-    "annoLettura": 2007,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Malalingua",
-    "cognomeAutore": "Trifone",
-    "nomeAutore": "Pietro",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Maledetta Cina",
-    "cognomeAutore": "Rumiz",
-    "nomeAutore": "Paolo",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Manuale del boia",
-    "cognomeAutore": "Duff",
-    "nomeAutore": "Charles",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Margherita Dolcevita",
-    "cognomeAutore": "Benni",
-    "nomeAutore": "Stefano",
-    "annoLettura": 2013,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Martin Eden",
-    "cognomeAutore": "London",
-    "nomeAutore": "Jack",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Memorie di un bevitore",
-    "cognomeAutore": "London",
-    "nomeAutore": "Jack",
-    "annoLettura": 2019,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Memory Illusion",
-    "cognomeAutore": "Shaw",
-    "nomeAutore": "Julia",
-    "annoLettura": 2016,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Meno dodici",
-    "cognomeAutore": "Piccioni",
-    "nomeAutore": "Pierdante",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Mi ricordo, sì, io mi ricordo",
-    "cognomeAutore": "Mastroianni",
-    "nomeAutore": "Marcello",
-    "annoLettura": 2013,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Mio fratello rincorre i dinosauri",
-    "cognomeAutore": "Mazzariol",
-    "nomeAutore": "Giacomo",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Miracolo!",
-    "cognomeAutore": "Martigli",
-    "nomeAutore": "Carlo A.",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Misery",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Misura per misura",
-    "cognomeAutore": "Shakespeare",
-    "nomeAutore": "William",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Mobbing",
-    "cognomeAutore": "Giuglielmi",
-    "nomeAutore": "Dina",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Moby Dick",
-    "cognomeAutore": "Melville",
-    "nomeAutore": "Herman",
-    "annoLettura": 2015,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Mondo senza fine",
-    "cognomeAutore": "Follett",
-    "nomeAutore": "Ken",
-    "annoLettura": 2004,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Moshi Moshi",
-    "cognomeAutore": "Yoshimoto",
-    "nomeAutore": "Banana",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Muovete il culo!",
-    "cognomeAutore": "Forchielli",
-    "nomeAutore": "Alberto",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Mutilato scappa su gamba rubata",
-    "cognomeAutore": "Stefanato",
-    "nomeAutore": "Paolo",
-    "annoLettura": 2002,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Nato fuori legge",
-    "cognomeAutore": "Noah",
-    "nomeAutore": "Trevor",
-    "annoLettura": 2021,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Nella setta",
-    "cognomeAutore": "Piccinni",
-    "nomeAutore": "Flavia",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Nelle terre del grande Nord",
-    "cognomeAutore": "London",
-    "nomeAutore": "Jack",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Neuromarketing",
-    "cognomeAutore": "Maxwell",
-    "nomeAutore": "Phil",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Neuroni specchio",
-    "cognomeAutore": "Craighero",
-    "nomeAutore": "Lalla",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Niente di vero tranne gli occhi",
-    "cognomeAutore": "Faletti",
-    "nomeAutore": "Giorgio",
-    "annoLettura": 2007,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Norvegian f**k",
-    "cognomeAutore": "Kalvo",
-    "nomeAutore": "Are",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Novecento",
-    "cognomeAutore": "Baricco",
-    "nomeAutore": "Alessandro",
-    "annoLettura": 2019,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "On writing",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Orlando Furioso",
-    "cognomeAutore": "Calvino",
-    "nomeAutore": "Italo",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Osservazioni sulla tortura",
-    "cognomeAutore": "Verri",
-    "nomeAutore": "Pietro",
-    "annoLettura": 2017,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Otzi, Tutankhamon, Evita Peron",
-    "cognomeAutore": "Zink",
-    "nomeAutore": "Albert",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Pablo Escobar: il padrone del male",
-    "cognomeAutore": "Escobar",
-    "nomeAutore": "Juan Pablo",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Padre ricco, padre povero",
-    "cognomeAutore": "Kiyosaki",
-    "nomeAutore": "Robert T.",
-    "annoLettura": 2019,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Palomar",
-    "cognomeAutore": "Calvino",
-    "nomeAutore": "Italo",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Pane e tempesta",
-    "cognomeAutore": "Benni",
-    "nomeAutore": "Stefano",
-    "annoLettura": 2015,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Paperdinastia",
-    "cognomeAutore": "Disney",
-    "nomeAutore": "Walt",
-    "annoLettura": 2000,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Paura",
-    "cognomeAutore": "Wright",
-    "nomeAutore": "Richard",
-    "annoLettura": 2014,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Paura e disgusto a Las Vegas",
-    "cognomeAutore": "Thompson",
-    "nomeAutore": "Hunter",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Pensieri lenti e veloci",
-    "cognomeAutore": "Kahnemann",
-    "nomeAutore": "Daniel",
-    "annoLettura": 2018,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Pet sematary",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Peter Pan",
-    "cognomeAutore": "Barrie",
-    "nomeAutore": "James Matthew",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Pian della tortilla",
-    "cognomeAutore": "Steinbeck",
-    "nomeAutore": "John",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Piccole donne",
-    "cognomeAutore": "Alcoot",
-    "nomeAutore": "L.M.",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Pimp: The story of my life",
-    "cognomeAutore": "Slim",
-    "nomeAutore": "Iceberg",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Pinocchio",
-    "cognomeAutore": "Collodi",
-    "nomeAutore": "Carlo",
-    "annoLettura": 2000,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Pippi Calzelunghe",
-    "cognomeAutore": "Lindgren",
-    "nomeAutore": "Astrid",
-    "annoLettura": 2001,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Pornage",
-    "cognomeAutore": "Costa",
-    "nomeAutore": "Barbara",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Prima che tu dica pronto",
-    "cognomeAutore": "Calvino",
-    "nomeAutore": "Italo",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Profondo Thrilling",
-    "cognomeAutore": "Argento",
-    "nomeAutore": "Dario",
-    "annoLettura": 2011,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Pulp",
-    "cognomeAutore": "Bukowski",
-    "nomeAutore": "Charles",
-    "annoLettura": 2007,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Quando Alice ruppe lo specchio",
-    "cognomeAutore": "Carroll",
-    "nomeAutore": "Lewis",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Quark economia",
-    "cognomeAutore": "Angela",
-    "nomeAutore": "Piero",
-    "annoLettura": 2019,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Quiet",
-    "cognomeAutore": "Cain",
-    "nomeAutore": "Susan",
-    "annoLettura": 2016,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Racconti dei saggi pellegrini",
-    "cognomeAutore": "De la Héronniere",
-    "nomeAutore": "Edith",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Ragazzi violenti",
-    "cognomeAutore": "Muratori",
-    "nomeAutore": "Filippo",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Resurrezione",
-    "cognomeAutore": "Sohl",
-    "nomeAutore": "Jerry",
-    "annoLettura": 2016,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Ribelli",
-    "cognomeAutore": "Hinton",
-    "nomeAutore": "S.E.",
-    "annoLettura": 2005,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Ricco prima delle 8",
-    "cognomeAutore": "Bardolla",
-    "nomeAutore": "Alfio",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Rituali quotidiani",
-    "cognomeAutore": "Currey",
-    "nomeAutore": "Mason",
-    "annoLettura": 2010,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Rivoluzione",
-    "cognomeAutore": "London",
-    "nomeAutore": "Jack",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Robinson Crusoe",
-    "cognomeAutore": "Defoe",
-    "nomeAutore": "Daniel",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Rosemary's baby",
-    "cognomeAutore": "Levin",
-    "nomeAutore": "Ira",
-    "annoLettura": 2007,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Saltatempo",
-    "cognomeAutore": "Benni",
-    "nomeAutore": "Stefano",
-    "annoLettura": 2012,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Sangue di vampiro",
-    "cognomeAutore": "King",
-    "nomeAutore": "William",
-    "annoLettura": 2004,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Sbornie sacre, sbornie profane",
-    "cognomeAutore": "Ferlan",
-    "nomeAutore": "Claudio",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Scelti dalle tenebre",
-    "cognomeAutore": "Rice",
-    "nomeAutore": "Anne",
-    "annoLettura": 2005,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Scrivere le grandi serie tv",
-    "cognomeAutore": "Douglas",
-    "nomeAutore": "Pamela",
-    "annoLettura": 2015,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Se questo è un uomo",
-    "cognomeAutore": "Levi",
-    "nomeAutore": "Primo",
-    "annoLettura": 2021,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Sei personaggi in cerca d’autore",
-    "cognomeAutore": "Pirandello",
-    "nomeAutore": "Luigi",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Sessanta racconti",
-    "cognomeAutore": "Buzzati",
-    "nomeAutore": "Dino",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Shadowhunters: Città di Ossa",
-    "cognomeAutore": "Clare",
-    "nomeAutore": "Cassandra",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Shining",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2004,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Shrek",
-    "cognomeAutore": "Steig",
-    "nomeAutore": "William",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Sigrid e i mondi perduti - La fidanzata del rospo",
-    "cognomeAutore": "Brussolo",
-    "nomeAutore": "Serge",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Smart City",
-    "cognomeAutore": "Dall'O",
-    "nomeAutore": "Giuliano",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Soffocare",
-    "cognomeAutore": "Palahniuk",
-    "nomeAutore": "Chuck",
-    "annoLettura": 2007,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Solitudine digitale",
-    "cognomeAutore": "Spitzer",
-    "nomeAutore": "Manfred",
-    "annoLettura": 2017,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Sono un ottimista globale",
-    "cognomeAutore": "Gates",
-    "nomeAutore": "Bill",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Stagioni diverse",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Stai zitta",
-    "cognomeAutore": "Murgia",
-    "nomeAutore": "Michela",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Startup di merda",
-    "cognomeAutore": "Moroni",
-    "nomeAutore": "Mario",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Stato di paura",
-    "cognomeAutore": "Crichton",
-    "nomeAutore": "Michael",
-    "annoLettura": 2006,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Storia della colonna infame",
-    "cognomeAutore": "Manzoni",
-    "nomeAutore": "Alessandro",
-    "annoLettura": 2016,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Storia della vita sulla terra",
-    "cognomeAutore": "Sardella",
-    "nomeAutore": "Raffaele",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Storie di clima",
-    "cognomeAutore": "Barbero",
-    "nomeAutore": "Roberto",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Storie di ordinaria follia",
-    "cognomeAutore": "Bukowski",
-    "nomeAutore": "Charles",
-    "annoLettura": 2013,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Strategia armonica di business",
-    "cognomeAutore": "Benedetto",
-    "nomeAutore": "Claudio",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Sulle ali della luce",
-    "cognomeAutore": "Cattaneo",
-    "nomeAutore": "Rossella",
-    "annoLettura": 2019,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Terra!",
-    "cognomeAutore": "Benni",
-    "nomeAutore": "Stefano",
-    "annoLettura": 2009,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Teste mozze",
-    "cognomeAutore": "Larson",
-    "nomeAutore": "Frances",
-    "annoLettura": 2017,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "The 4-hour workweek",
-    "cognomeAutore": "Ferris",
-    "nomeAutore": "Tim",
-    "annoLettura": 2017,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Trainspotting",
-    "cognomeAutore": "Welsh",
-    "nomeAutore": "Irvine",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Tutte le novelle",
-    "cognomeAutore": "Verga",
-    "nomeAutore": "Giovanni",
-    "annoLettura": 2015,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Tutte le opere",
-    "cognomeAutore": "Borges",
-    "nomeAutore": "Jorge Louis",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Tutti i racconti",
-    "cognomeAutore": "Hawthorne",
-    "nomeAutore": "Nathaniel",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Tutti i racconti dell'incubo e del terrore",
-    "cognomeAutore": "Poe",
-    "nomeAutore": "Edgar Allan",
-    "annoLettura": 2017,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Tutti i racconti vol. 1",
-    "cognomeAutore": "Dick",
-    "nomeAutore": "Philp K.",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Ultimo viene il corvo",
-    "cognomeAutore": "Calvino",
-    "nomeAutore": "Italo",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Un amore",
-    "cognomeAutore": "Buzzati",
-    "nomeAutore": "Dino",
-    "annoLettura": 2018,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Uno nessuno e centomila",
-    "cognomeAutore": "Pirandello",
-    "nomeAutore": "Luigi",
-    "annoLettura": 2014,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Uomini e topi",
-    "cognomeAutore": "Steinbeck",
-    "nomeAutore": "John",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Uova fatali",
-    "cognomeAutore": "Bulgakov",
-    "nomeAutore": "Michail",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Uscita per l'inferno",
-    "cognomeAutore": "King",
-    "nomeAutore": "Stephen",
-    "annoLettura": 2008,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Vaffanguru",
-    "cognomeAutore": "Bizzarro",
-    "nomeAutore": "Ka",
-    "annoLettura": 2021,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Vedrò Singapore?",
-    "cognomeAutore": "Chiara",
-    "nomeAutore": "Piero",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Vendere e comprare sesso",
-    "cognomeAutore": "Garofalo Geymonat",
-    "nomeAutore": "Giulia",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Ventimila leghe sotto i mari",
-    "cognomeAutore": "Verne",
-    "nomeAutore": "Jules",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Viaggi di Gulliver",
-    "cognomeAutore": "Swift",
-    "nomeAutore": "Jonathan",
-    "annoLettura": 2019,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Viaggiatore del tempo",
-    "cognomeAutore": "Bradbury",
-    "nomeAutore": "Ray",
-    "annoLettura": 2016,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Viaggio al centro della terra",
-    "cognomeAutore": "Verne",
-    "nomeAutore": "Jules",
-    "annoLettura": 2020,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Volare senza paura è facile se sai come farlo",
-    "cognomeAutore": "Carr",
-    "nomeAutore": "Allen",
-    "annoLettura": 2020,
-    "categoria": "nonFiction"
-  },
-  {
-    "titolo": "Ninna nanna",
-    "cognomeAutore": "Palahniuk",
-    "nomeAutore": "Chuck",
-    "annoLettura": 2012,
-    "categoria": "fiction"
-  },
-  {
-    "titolo": "Invisible Monsters",
-    "cognomeAutore": "Palahniuk",
-    "nomeAutore": "Chuck",
-    "annoLettura": 2019,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
   },
   {
     "titolo": "Cavie",
     "cognomeAutore": "Palahniuk",
     "nomeAutore": "Chuck",
     "annoLettura": 2006,
-    "categoria": "fiction"
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Che la festa cominci",
+    "cognomeAutore": "Ammaniti",
+    "nomeAutore": "Niccolò",
+    "annoLettura": 2014,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Chi ha paura di Virginia Woolf",
+    "cognomeAutore": "Albee",
+    "nomeAutore": "Edward",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Christine",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2004,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Ciaula scopre la luna",
+    "cognomeAutore": "Pirandello",
+    "nomeAutore": "Luigi",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/41TbxBVrRDL._SL260_.jpg"
+  },
+  {
+    "titolo": "Cion cion blu",
+    "cognomeAutore": "Carpi",
+    "nomeAutore": "Pinin",
+    "annoLettura": 1999,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Come diventare un buddha in cinque settimane",
+    "cognomeAutore": "Giacobbe",
+    "nomeAutore": "Giulio Cesare",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51k4qju8eCL._SL260_.jpg"
+  },
+  {
+    "titolo": "Come non scrivere un romanzo",
+    "cognomeAutore": "Mittelmark",
+    "nomeAutore": "Howard",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Come scrivere una grande sceneggiatura",
+    "cognomeAutore": "Seger",
+    "nomeAutore": "Linda",
+    "annoLettura": 2014,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Come sono guarito dalla miopia",
+    "cognomeAutore": "De Angelis",
+    "nomeAutore": "David",
+    "annoLettura": 2009,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Comici spaventati guerrieri",
+    "cognomeAutore": "Benni",
+    "nomeAutore": "Stefano",
+    "annoLettura": 2007,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Confessioni ultime",
+    "cognomeAutore": "Corona",
+    "nomeAutore": "Mauro",
+    "annoLettura": 2015,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Coscienza di Zeno",
+    "cognomeAutore": "Svevo",
+    "nomeAutore": "Italo",
+    "annoLettura": 2003,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Cose preziose",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2005,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Crypto",
+    "cognomeAutore": "Brown",
+    "nomeAutore": "Dan",
+    "annoLettura": 2004,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Cucina futurista",
+    "cognomeAutore": "Marinetti",
+    "nomeAutore": "Filippo Tommaso",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Cujo",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2003,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Cuore",
+    "cognomeAutore": "De Amicis",
+    "nomeAutore": "Edmondo",
+    "annoLettura": 2000,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Cuore di cane",
+    "cognomeAutore": "Bulgakov",
+    "nomeAutore": "Michail",
+    "annoLettura": 2012,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Cuore di tenebra",
+    "cognomeAutore": "Conrad",
+    "nomeAutore": "Joseph",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Dalla terra alla luna",
+    "cognomeAutore": "Verne",
+    "nomeAutore": "Jules",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51vTufsNN1L._SL260_.jpg"
+  },
+  {
+    "titolo": "Diario",
+    "cognomeAutore": "Frank",
+    "nomeAutore": "Anne",
+    "annoLettura": 2003,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Diario inconsapevole",
+    "cognomeAutore": "Tornatore",
+    "nomeAutore": "Giuseppe",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51YuGamMx1L._SL260_.jpg"
+  },
+  {
+    "titolo": "Dieci piccoli indiani",
+    "cognomeAutore": "Christie",
+    "nomeAutore": "Agatha",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61nR2-FKeLL._SL260_.jpg"
+  },
+  {
+    "titolo": "Dieci ragioni per cancellare subito i tuoi account social",
+    "cognomeAutore": "Lanier",
+    "nomeAutore": "Jaron",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51YjK0+GKqL._SL260_.jpg"
+  },
+  {
+    "titolo": "Diventare milionario",
+    "cognomeAutore": "Ruggeri",
+    "nomeAutore": "Paolo",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41TV2wnWExL._SL260_.jpg"
+  },
+  {
+    "titolo": "Donne",
+    "cognomeAutore": "Bukowski",
+    "nomeAutore": "Charles",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Dove la terra brucia",
+    "cognomeAutore": "Rosso",
+    "nomeAutore": "Francesco",
+    "annoLettura": 2018,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Dracula",
+    "cognomeAutore": "Stoker",
+    "nomeAutore": "Bram",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/41YFyyBDs+L._SL260_.jpg"
+  },
+  {
+    "titolo": "Duplicatori",
+    "cognomeAutore": "Shea",
+    "nomeAutore": "Harold",
+    "annoLettura": 2016,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "E la donna? Fuma fuma!",
+    "cognomeAutore": "Cremona",
+    "nomeAutore": "Raul",
+    "annoLettura": 2005,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Educazione per un mondo nuovo",
+    "cognomeAutore": "Montessori",
+    "nomeAutore": "Maria",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51nVAf30BlL._SL260_.jpg"
+  },
+  {
+    "titolo": "Elianto",
+    "cognomeAutore": "Benni",
+    "nomeAutore": "Stefano",
+    "annoLettura": 2012,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Elogio del silenzio",
+    "cognomeAutore": "Biguenet",
+    "nomeAutore": "John",
+    "annoLettura": 2018,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Enigmi e misteri della storia",
+    "cognomeAutore": "Polidoro",
+    "nomeAutore": "Massimo",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51xWROJYQxL._SL260_.jpg"
+  },
+  {
+    "titolo": "Enzo Ferrari: il grande Drake",
+    "cognomeAutore": "Principi",
+    "nomeAutore": "Patrizia",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/519a4gGfNzL._SL260_.jpg"
+  },
+  {
+    "titolo": "Esercizi di stile",
+    "cognomeAutore": "Queneau",
+    "nomeAutore": "Raymond",
+    "annoLettura": 2015,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Fango",
+    "cognomeAutore": "Ammaniti",
+    "nomeAutore": "Niccolò",
+    "annoLettura": 2014,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Fare un film",
+    "cognomeAutore": "Fellini",
+    "nomeAutore": "Federico",
+    "annoLettura": 2014,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Farenheit 451",
+    "cognomeAutore": "Bradbury",
+    "nomeAutore": "Ray",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Favole al telefono",
+    "cognomeAutore": "Rodari",
+    "nomeAutore": "Gianni",
+    "annoLettura": 1998,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Fight Club",
+    "cognomeAutore": "Palahniuk",
+    "nomeAutore": "Chuck",
+    "annoLettura": 2014,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Filastrocche in cielo e in terra",
+    "cognomeAutore": "Rodari",
+    "nomeAutore": "Gianni",
+    "annoLettura": 2001,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Finanza e credito in Italia",
+    "cognomeAutore": "Cesarini",
+    "nomeAutore": "Francesco",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51op7SEWaUL._SL260_.jpg"
+  },
+  {
+    "titolo": "Fino a quando",
+    "cognomeAutore": "Linus",
+    "nomeAutore": "",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51LuvgwIYwL._SL260_.jpg"
+  },
+  {
+    "titolo": "Finzioni",
+    "cognomeAutore": "Borges",
+    "nomeAutore": "Jorge Louis",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Fisica della lavatrice",
+    "cognomeAutore": "Woodford",
+    "nomeAutore": "Chris",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41uI9Q-DWNL._SL260_.jpg"
+  },
+  {
+    "titolo": "Flatlandia",
+    "cognomeAutore": "Abbott",
+    "nomeAutore": "Edwin A.",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Fozza Cina",
+    "cognomeAutore": "Carreras",
+    "nomeAutore": "Sabrina",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51SLDQgFRDL._SL260_.jpg"
+  },
+  {
+    "titolo": "Franco, oh franco!",
+    "cognomeAutore": "Neri",
+    "nomeAutore": "Franco",
+    "annoLettura": 2005,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Fratelli di truffa",
+    "cognomeAutore": "Mottola",
+    "nomeAutore": "Giorgio",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51Ygt4-v2UL._SL260_.jpg"
+  },
+  {
+    "titolo": "Gli occhi del drago",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Gli spaventevoli egizi",
+    "cognomeAutore": "Deary",
+    "nomeAutore": "Terry",
+    "annoLettura": 2000,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Gli sporcelli",
+    "cognomeAutore": "Dahl",
+    "nomeAutore": "Roald",
+    "annoLettura": 1999,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Goal economy",
+    "cognomeAutore": "Bellinazzo",
+    "nomeAutore": "Marco",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51ehdik03oL._SL260_.jpg"
+  },
+  {
+    "titolo": "Goebbels, il diavolo zoppo",
+    "cognomeAutore": "Pavetto",
+    "nomeAutore": "Lucas",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Gomorra",
+    "cognomeAutore": "Saviano",
+    "nomeAutore": "Roberto",
+    "annoLettura": 2009,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Growth Hacking Copywriting",
+    "cognomeAutore": "Taylor",
+    "nomeAutore": "Ray",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/5171W97hHRL._SL260_.jpg"
+  },
+  {
+    "titolo": "Growth Hacking Storytelling",
+    "cognomeAutore": "Taylor",
+    "nomeAutore": "Ray",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51eztFjfkAL._SL260_.jpg"
+  },
+  {
+    "titolo": "Hacker Republic",
+    "cognomeAutore": "Ghioni",
+    "nomeAutore": "Fabio",
+    "annoLettura": 2012,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Harry Potter e i doni della morte",
+    "cognomeAutore": "Rowling",
+    "nomeAutore": "J.K.",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51ce8tVupKL._SL260_.jpg"
+  },
+  {
+    "titolo": "Harry Potter e il calice di fuoco",
+    "cognomeAutore": "Rowling",
+    "nomeAutore": "J.K.",
+    "annoLettura": 2004,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Harry Potter e il mistero di Azkaban",
+    "cognomeAutore": "Rowling",
+    "nomeAutore": "J.K.",
+    "annoLettura": 2002,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Harry Potter e il principe mezzosangue",
+    "cognomeAutore": "Rowling",
+    "nomeAutore": "J.K.",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51RGmdVGKkL._SL260_.jpg"
+  },
+  {
+    "titolo": "Harry Potter e l'Ordine della Fenice",
+    "cognomeAutore": "Rowling",
+    "nomeAutore": "J.K.",
+    "annoLettura": 2005,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Harry Potter e la camera dei segreti",
+    "cognomeAutore": "Rowling",
+    "nomeAutore": "J.K.",
+    "annoLettura": 1999,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Harry Potter e la pietra filosofale",
+    "cognomeAutore": "Rowling",
+    "nomeAutore": "J.K.",
+    "annoLettura": 1999,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Ho sposato una vegana",
+    "cognomeAutore": "Brizzi",
+    "nomeAutore": "Fausto",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/515hlGR0p0L._SL260_.jpg"
+  },
+  {
+    "titolo": "Homo Dieteticus",
+    "cognomeAutore": "Niola",
+    "nomeAutore": "Marino",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41tukH4haXL._SL260_.jpg"
+  },
+  {
+    "titolo": "Horror",
+    "cognomeAutore": "Horowitz",
+    "nomeAutore": "Anthony",
+    "annoLettura": 2000,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "I fondi comuni di investimento",
+    "cognomeAutore": "Cesarini",
+    "nomeAutore": "Francesco",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41ryG7HZDfL._SL260_.jpg"
+  },
+  {
+    "titolo": "I mille volti del terrore",
+    "cognomeAutore": "Page",
+    "nomeAutore": "Gerald",
+    "annoLettura": 2009,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "I misteri dell'universo",
+    "cognomeAutore": "Kolosimo",
+    "nomeAutore": "Peter",
+    "annoLettura": 2018,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "I miti di Chtulhu",
+    "cognomeAutore": "Lovecraft",
+    "nomeAutore": "H.P.",
+    "annoLettura": 2012,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "I nomadi",
+    "cognomeAutore": "Steinbeck",
+    "nomeAutore": "John",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51-yRp5KTdL._SL260_.jpg"
+  },
+  {
+    "titolo": "I paradisi artificiali",
+    "cognomeAutore": "Baudelaire",
+    "nomeAutore": "Charles",
+    "annoLettura": 2012,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "I pilastri della terra",
+    "cognomeAutore": "Follett",
+    "nomeAutore": "Ken",
+    "annoLettura": 2004,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "I pirati della malesia",
+    "cognomeAutore": "Salgari",
+    "nomeAutore": "Emilio",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "I promessi sposi",
+    "cognomeAutore": "Manzoni",
+    "nomeAutore": "Alessandro",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61uGeU51jdL._SL260_.jpg"
+  },
+  {
+    "titolo": "I rifiuti",
+    "cognomeAutore": "Massarutto",
+    "nomeAutore": "Antonino",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51gBl3dp3tL._SL260_.jpg"
+  },
+  {
+    "titolo": "I sette peccati di Hollywood",
+    "cognomeAutore": "Fallaci",
+    "nomeAutore": "Oriana",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51ZNRWJ-2hL._SL260_.jpg"
+  },
+  {
+    "titolo": "I sindacati",
+    "cognomeAutore": "Carrieri",
+    "nomeAutore": "Mimmo",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/411yWIfiEcL._SL260_.jpg"
+  },
+  {
+    "titolo": "I sogni e il modo di dirigerli",
+    "cognomeAutore": "De Saint-Denys",
+    "nomeAutore": "Hervey",
+    "annoLettura": 2011,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "I sommersi e i salvati",
+    "cognomeAutore": "Levi",
+    "nomeAutore": "Primo",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51ZqsVOZN7L._SL260_.jpg"
+  },
+  {
+    "titolo": "I vendicatori",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il bar sotto il mare",
+    "cognomeAutore": "Benni",
+    "nomeAutore": "Stefano",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il brigante pennastorta",
+    "cognomeAutore": "Preussler",
+    "nomeAutore": "Otfried",
+    "annoLettura": 2000,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il cacciatore di draghi",
+    "cognomeAutore": "Tolkien",
+    "nomeAutore": "J.R.R.",
+    "annoLettura": 2003,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il cancro",
+    "cognomeAutore": "Fortune",
+    "nomeAutore": "Editors of",
+    "annoLettura": 2018,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il canto delle manere",
+    "cognomeAutore": "Corona",
+    "nomeAutore": "Mauro",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il castello",
+    "cognomeAutore": "Kafka",
+    "nomeAutore": "Franz",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51AhP5obMIL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il castello di Otranto",
+    "cognomeAutore": "Walpole",
+    "nomeAutore": "Horace",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il cimitero di Praga",
+    "cognomeAutore": "Eco",
+    "nomeAutore": "Umberto",
+    "annoLettura": 2010,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il cinema secondo Hitchcock",
+    "cognomeAutore": "Truffaut",
+    "nomeAutore": "Francois",
+    "annoLettura": 2016,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il club dei suicidi",
+    "cognomeAutore": "Stevenson",
+    "nomeAutore": "Robert Louis",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51WuQrARFxL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il codice Da Vinci",
+    "cognomeAutore": "Brown",
+    "nomeAutore": "Dan",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il colombre",
+    "cognomeAutore": "Buzzati",
+    "nomeAutore": "Dino",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il conte di Montecristo",
+    "cognomeAutore": "Dumas",
+    "nomeAutore": "Alexander",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il curioso caso di Benjamin Button",
+    "cognomeAutore": "Scott Fitzgerald",
+    "nomeAutore": "Francis",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51Xl-ef5D2L._SL260_.jpg"
+  },
+  {
+    "titolo": "Il deserto dei tartari",
+    "cognomeAutore": "Buzzati",
+    "nomeAutore": "Dino",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il falso testamento",
+    "cognomeAutore": "Biglino",
+    "nomeAutore": "Mauro",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il filo del rasoio",
+    "cognomeAutore": "Maugham",
+    "nomeAutore": "W.S",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il fu Mattia Pascal",
+    "cognomeAutore": "Pirandello",
+    "nomeAutore": "Luigi",
+    "annoLettura": 2010,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il gabbiano Jonathan Livingston",
+    "cognomeAutore": "Back",
+    "nomeAutore": "Richard",
+    "annoLettura": 2003,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il genio non esiste",
+    "cognomeAutore": "X",
+    "nomeAutore": "Barbascura",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51yCFYNhNGS._SL260_.jpg"
+  },
+  {
+    "titolo": "Il gioco di Gerald",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2004,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il giornalino di Gian Burrasca",
+    "cognomeAutore": "Vamba",
+    "nomeAutore": "",
+    "annoLettura": 2002,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il giovane Holden",
+    "cognomeAutore": "Salinger",
+    "nomeAutore": "J.D.",
+    "annoLettura": 2005,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il giro del mondo in ottanta giorni",
+    "cognomeAutore": "Verne",
+    "nomeAutore": "Jules",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51ZL7KX4uNL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il grande Gatsby",
+    "cognomeAutore": "Scott Fitzgerald",
+    "nomeAutore": "Francis",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61GJScT+AZL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il grande Gualino",
+    "cognomeAutore": "Caponetti",
+    "nomeAutore": "Giorgio",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51XXF7YV9eL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il grande imbroglio",
+    "cognomeAutore": "Righi",
+    "nomeAutore": "Stefano",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/517erSLlW5L._SL260_.jpg"
+  },
+  {
+    "titolo": "Il guardiano dei sogni",
+    "cognomeAutore": "Lovecraft",
+    "nomeAutore": "H.P.",
+    "annoLettura": 2014,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il libro dei mostri",
+    "cognomeAutore": "Coville",
+    "nomeAutore": "Bruce",
+    "annoLettura": 2003,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il libro della giungla",
+    "cognomeAutore": "Kipling",
+    "nomeAutore": "Rudyard",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61l+ZfKDMGL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il libro di sabbia",
+    "cognomeAutore": "Borges",
+    "nomeAutore": "Jorge Louis",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il libro segreto di Shakespeare",
+    "cognomeAutore": "Underwood",
+    "nomeAutore": "John",
+    "annoLettura": 2007,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il magico poter del riordino",
+    "cognomeAutore": "Kondo",
+    "nomeAutore": "Marie",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51hv0r+ZsgL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il martello dell'Eden",
+    "cognomeAutore": "Follet",
+    "nomeAutore": "Ken",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il matrimonio del cielo e dell’inferno",
+    "cognomeAutore": "Blake",
+    "nomeAutore": "William",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il mercante di Venezia",
+    "cognomeAutore": "Shakespeare",
+    "nomeAutore": "William",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il messaggio dell'imperatore",
+    "cognomeAutore": "Kafka",
+    "nomeAutore": "Franz",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il metodo Aranzulla",
+    "cognomeAutore": "Aranzulla",
+    "nomeAutore": "Salvatore",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51KgNQFnpgL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il microcredito",
+    "cognomeAutore": "Becchetti",
+    "nomeAutore": "Leonardo",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41bOpaXlW-L._SL260_.jpg"
+  },
+  {
+    "titolo": "Il miglio verde",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2004,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il milione",
+    "cognomeAutore": "Polo",
+    "nomeAutore": "Marco",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/41zmowXvoUL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il mondo nuovo",
+    "cognomeAutore": "Huxley",
+    "nomeAutore": "Aldous",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il mondo perduto",
+    "cognomeAutore": "Doyle",
+    "nomeAutore": "Arthur Conan",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il mondo sottosopra",
+    "cognomeAutore": "Polidoro",
+    "nomeAutore": "Massimo",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51gVXaLz-QL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il mondo visto dai libri",
+    "cognomeAutore": "Tuzzi",
+    "nomeAutore": "Hans",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41mVEwasl2L._SL260_.jpg"
+  },
+  {
+    "titolo": "Il nome della rosa",
+    "cognomeAutore": "Eco",
+    "nomeAutore": "Umberto",
+    "annoLettura": 2003,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il paese dei ciechi",
+    "cognomeAutore": "Wells",
+    "nomeAutore": "H.G",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51tFlFTdWvL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il pianeta dei bruchi",
+    "cognomeAutore": "Follett",
+    "nomeAutore": "Ken",
+    "annoLettura": 2001,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il piccolo principe",
+    "cognomeAutore": "De Saint-Exupéry",
+    "nomeAutore": "Antoine",
+    "annoLettura": 2001,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il più grande uomo scimmia del Pleistocene",
+    "cognomeAutore": "Lewis",
+    "nomeAutore": "Roy",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il popolo dell'abisso",
+    "cognomeAutore": "London",
+    "nomeAutore": "Jack",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il problema più difficile del mondo",
+    "cognomeAutore": "Wardle",
+    "nomeAutore": "Terry",
+    "annoLettura": 2002,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il processo",
+    "cognomeAutore": "Kafka",
+    "nomeAutore": "Franz",
+    "annoLettura": 2015,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il profumo",
+    "cognomeAutore": "Suskind",
+    "nomeAutore": "Patrick",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il pugno chiuso",
+    "cognomeAutore": "Boito",
+    "nomeAutore": "Arrigo",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il ragno nero",
+    "cognomeAutore": "Gotthelf",
+    "nomeAutore": "Jeremias",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il ramo d'oro",
+    "cognomeAutore": "Frazer",
+    "nomeAutore": "James",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il re del mondo",
+    "cognomeAutore": "Guénon",
+    "nomeAutore": "René",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il richiamo della foresta",
+    "cognomeAutore": "London",
+    "nomeAutore": "Jack",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il risparmio energetico",
+    "cognomeAutore": "Lorenzoni",
+    "nomeAutore": "Arturo",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51VvZCzIMgL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il ritardo mentale",
+    "cognomeAutore": "Pfanner",
+    "nomeAutore": "Pietro",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51NWLO3hKOL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il ritratto di Dorian Grey",
+    "cognomeAutore": "Wilde",
+    "nomeAutore": "Oscar",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il segreto del bosco vecchio",
+    "cognomeAutore": "Buzzati",
+    "nomeAutore": "Dino",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il sentiero dei nidi di ragno",
+    "cognomeAutore": "Calvino",
+    "nomeAutore": "Italo",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il signore delle mosche",
+    "cognomeAutore": "Golding",
+    "nomeAutore": "William",
+    "annoLettura": 2009,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il simbolo perduto",
+    "cognomeAutore": "Brown",
+    "nomeAutore": "Dan",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il sonno e i suoi distubi",
+    "cognomeAutore": "Lugaresi",
+    "nomeAutore": "Elio",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51cUbzCNxGL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il trucco c'è e si vede",
+    "cognomeAutore": "Mautino",
+    "nomeAutore": "Beatrice",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41-BCYaOrgL._SL260_.jpg"
+  },
+  {
+    "titolo": "Il vagabondo delle stelle",
+    "cognomeAutore": "London",
+    "nomeAutore": "Jack",
+    "annoLettura": 2015,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il vecchio e il mare",
+    "cognomeAutore": "Hemingway",
+    "nomeAutore": "Ernest",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il viaggio dell'eroe",
+    "cognomeAutore": "Vogler",
+    "nomeAutore": "Christopher",
+    "annoLettura": 2015,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il visconte dimezzato",
+    "cognomeAutore": "Calvino",
+    "nomeAutore": "Italo",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Il volo del calabrone",
+    "cognomeAutore": "Follett",
+    "nomeAutore": "Ken",
+    "annoLettura": 2005,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Incubi & deliri",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2007,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Inferiori",
+    "cognomeAutore": "Saini",
+    "nomeAutore": "Angela",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/519P-xFaphL._SL260_.jpg"
+  },
+  {
+    "titolo": "Inferno",
+    "cognomeAutore": "Brown",
+    "nomeAutore": "Dan",
+    "annoLettura": 2009,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Inquisizioni",
+    "cognomeAutore": "Borges",
+    "nomeAutore": "Jorge Louis",
+    "annoLettura": 2018,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Insomnia",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Invisible Monsters",
+    "cognomeAutore": "Palahniuk",
+    "nomeAutore": "Chuck",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Io e Ennio Morricone",
+    "cognomeAutore": "De Rosa",
+    "nomeAutore": "Alessandro",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51U80pfe4nL._SL260_.jpg"
+  },
+  {
+    "titolo": "Io sono l'impostore",
+    "cognomeAutore": "Proto",
+    "nomeAutore": "Alessandro",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51xKHDD59SL._SL260_.jpg"
+  },
+  {
+    "titolo": "Io uccido",
+    "cognomeAutore": "Faletti",
+    "nomeAutore": "Giorgio",
+    "annoLettura": 2005,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Io vivo nell'ombra",
+    "cognomeAutore": "Comandante Alfa",
+    "nomeAutore": "",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/416zvgsxHyL._SL260_.jpg"
+  },
+  {
+    "titolo": "It",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Jack Frusciante è uscito dal gruppo",
+    "cognomeAutore": "Brizzi",
+    "nomeAutore": "Enrico",
+    "annoLettura": 2004,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Kamasutra",
+    "cognomeAutore": "Vatsyayana",
+    "nomeAutore": "Mallanaga",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51zH9haXs7L._SL260_.jpg"
+  },
+  {
+    "titolo": "Kamo",
+    "cognomeAutore": "Pennac",
+    "nomeAutore": "Daniel",
+    "annoLettura": 2002,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Kim",
+    "cognomeAutore": "Kipling",
+    "nomeAutore": "Rudyard",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Kitchen",
+    "cognomeAutore": "Yoshimoto",
+    "nomeAutore": "Banana",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Kitty Foyle",
+    "cognomeAutore": "Morley",
+    "nomeAutore": "Christopher",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'acchiappasogni",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2015,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'alba di un nuovo giorno",
+    "cognomeAutore": "Ripa",
+    "nomeAutore": "Alberto",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'Aleph",
+    "cognomeAutore": "Borges",
+    "nomeAutore": "Jorge Louis",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51L2M8avKaL._AC_UL260_.jpg"
+  },
+  {
+    "titolo": "L'ansia",
+    "cognomeAutore": "Farnè",
+    "nomeAutore": "Mario",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41mzJrkRRML._SL260_.jpg"
+  },
+  {
+    "titolo": "L'arte del ventesimo secolo",
+    "cognomeAutore": "Riout",
+    "nomeAutore": "Denys",
+    "annoLettura": 2013,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'arte della guerra",
+    "cognomeAutore": "Tzu",
+    "nomeAutore": "Sun",
+    "annoLettura": 2015,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'arte di far soldi",
+    "cognomeAutore": "Barnum",
+    "nomeAutore": "P.T.",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51lzwEAW2pL._SL260_.jpg"
+  },
+  {
+    "titolo": "L'artefice",
+    "cognomeAutore": "Borges",
+    "nomeAutore": "Jorge Louis",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'energia solare",
+    "cognomeAutore": "Menna",
+    "nomeAutore": "Pietro",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51cFQBvE3oL._SL260_.jpg"
+  },
+  {
+    "titolo": "L'incendiaria",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2005,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'industria delle immagini",
+    "cognomeAutore": "Balestrini",
+    "nomeAutore": "Luca",
+    "annoLettura": 2018,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'infanzia e il sogno - Il cinema di Fellini",
+    "cognomeAutore": "Iarussi",
+    "nomeAutore": "Oscar",
+    "annoLettura": 2014,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'infarto",
+    "cognomeAutore": "Cuccia",
+    "nomeAutore": "Claudio",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/517Tec17-eL._SL260_.jpg"
+  },
+  {
+    "titolo": "L'inganno della scimmia",
+    "cognomeAutore": "Bonazzoli",
+    "nomeAutore": "Francesca",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'interpretazione dei sogni",
+    "cognomeAutore": "Freud",
+    "nomeAutore": "Sigmund",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'inventore di sogni",
+    "cognomeAutore": "McEwan",
+    "nomeAutore": "Ian",
+    "annoLettura": 2003,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'isola del tesoro",
+    "cognomeAutore": "Stevenson",
+    "nomeAutore": "Robert Louis",
+    "annoLettura": 2003,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'isola e le rose",
+    "cognomeAutore": "Veltroni",
+    "nomeAutore": "Walter",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51LTpfY04IL._SL260_.jpg"
+  },
+  {
+    "titolo": "L'isola misteriosa",
+    "cognomeAutore": "Verne",
+    "nomeAutore": "Jules",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61Axrjy+aXL._SL260_.jpg"
+  },
+  {
+    "titolo": "L'Italia spensierata",
+    "cognomeAutore": "Piccolo",
+    "nomeAutore": "Francesco",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51+DDv3qvfL._SL260_.jpg"
+  },
+  {
+    "titolo": "L'occhio della piovra",
+    "cognomeAutore": "Brussolo",
+    "nomeAutore": "Serge",
+    "annoLettura": 2009,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'Odissea di Omero",
+    "cognomeAutore": "Zanetto",
+    "nomeAutore": "Giuseppe",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51WY7BNGL9L._SL260_.jpg"
+  },
+  {
+    "titolo": "L'ombra dello scorpione",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2010,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'orda",
+    "cognomeAutore": "Stella",
+    "nomeAutore": "Gian Antonio",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51+KvX9lScL._SL260_.jpg"
+  },
+  {
+    "titolo": "L'ospite inquietante",
+    "cognomeAutore": "Galimberti",
+    "nomeAutore": "Umberto",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/411OAGgEGgL._SL260_.jpg"
+  },
+  {
+    "titolo": "L'ultimo cavaliere",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2015,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'uomo che cade",
+    "cognomeAutore": "DeLillo",
+    "nomeAutore": "Don",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "L'uomo che scambiò sua moglie per un cappello",
+    "cognomeAutore": "Sacks",
+    "nomeAutore": "Oliver",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51yYIsV1O5L._SL260_.jpg"
+  },
+  {
+    "titolo": "L'uomo invisibile",
+    "cognomeAutore": "Wells",
+    "nomeAutore": "H.G.",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La bussola d’oro",
+    "cognomeAutore": "Pullman",
+    "nomeAutore": "Philip",
+    "annoLettura": 2001,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La caduta dei giganti",
+    "cognomeAutore": "Follett",
+    "nomeAutore": "Ken",
+    "annoLettura": 2015,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La casa sopra i portici",
+    "cognomeAutore": "Verdone",
+    "nomeAutore": "Carlo",
+    "annoLettura": 2014,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "La città delle bestie",
+    "cognomeAutore": "Allende",
+    "nomeAutore": "Isabel",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La compagnia dei celestini",
+    "cognomeAutore": "Benni",
+    "nomeAutore": "Stefano",
+    "annoLettura": 2010,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La dieta Pareto 80/20",
+    "cognomeAutore": "De Angelis",
+    "nomeAutore": "David",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51n0c8QUE4L._SL260_.jpg"
+  },
+  {
+    "titolo": "La fabbrica di cioccolato",
+    "cognomeAutore": "Dahl",
+    "nomeAutore": "Roald",
+    "annoLettura": 2001,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La fattoria degli animali",
+    "cognomeAutore": "Orwell",
+    "nomeAutore": "George",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La geotermia",
+    "cognomeAutore": "Manzella",
+    "nomeAutore": "Adele",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51goXb1C2oL._SL260_.jpg"
+  },
+  {
+    "titolo": "La giustizia amministrativa",
+    "cognomeAutore": "Corso",
+    "nomeAutore": "Guido",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51J6BK86PvL._SL260_.jpg"
+  },
+  {
+    "titolo": "La grande rapina al treno",
+    "cognomeAutore": "Crichton",
+    "nomeAutore": "Michael",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La guerra dei mondi",
+    "cognomeAutore": "Wells",
+    "nomeAutore": "H.G.",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61bpZYrzc0L._SL260_.jpg"
+  },
+  {
+    "titolo": "La lunga marcia",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2007,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La macchina del tempo",
+    "cognomeAutore": "Wells",
+    "nomeAutore": "H.G",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61ufXXYHLuL._SL260_.jpg"
+  },
+  {
+    "titolo": "La madre",
+    "cognomeAutore": "Svevo",
+    "nomeAutore": "Italo",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/414LkY86jtL._SL260_.jpg"
+  },
+  {
+    "titolo": "La mala vita",
+    "cognomeAutore": "Mazzi",
+    "nomeAutore": "Maria Serena",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51YFsv8LCWS._SL260_.jpg"
+  },
+  {
+    "titolo": "La mosca",
+    "cognomeAutore": "Pirandello",
+    "nomeAutore": "Luigi",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La pendola stregata",
+    "cognomeAutore": "Bellairs",
+    "nomeAutore": "John",
+    "annoLettura": 2002,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La perla",
+    "cognomeAutore": "Steinbeck",
+    "nomeAutore": "John",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La peste scarlatta",
+    "cognomeAutore": "London",
+    "nomeAutore": "Jack",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La profezia di Celestino",
+    "cognomeAutore": "Redfield",
+    "nomeAutore": "James",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La pubblica amministrazione",
+    "cognomeAutore": "Cammelli",
+    "nomeAutore": "Marco",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/413HkOTnHgL._SL260_.jpg"
+  },
+  {
+    "titolo": "La quinta essenza",
+    "cognomeAutore": "Borzacchiello",
+    "nomeAutore": "Paolo",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51O7fsKPloL._SL260_.jpg"
+  },
+  {
+    "titolo": "La scimmia pensa, la scimmia fa",
+    "cognomeAutore": "Palahniuk",
+    "nomeAutore": "Chuck",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La società signorile di massa",
+    "cognomeAutore": "Ricolfi",
+    "nomeAutore": "Luca",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "La solitudine dei numeri primi",
+    "cognomeAutore": "Giordano",
+    "nomeAutore": "Paolo",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La storia del Dottor Dolittle",
+    "cognomeAutore": "Lofting",
+    "nomeAutore": "Hugh",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51o6WF-fX6L._SL260_.jpg"
+  },
+  {
+    "titolo": "La strada del guerriero",
+    "cognomeAutore": "Baccalario",
+    "nomeAutore": "Pierdomenico",
+    "annoLettura": 2002,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La tregua",
+    "cognomeAutore": "Levi",
+    "nomeAutore": "Primo",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51xG9drifsL._SL260_.jpg"
+  },
+  {
+    "titolo": "La verità dei ghiacci",
+    "cognomeAutore": "Brown",
+    "nomeAutore": "Dan",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "La vita in una frase",
+    "cognomeAutore": "Geary",
+    "nomeAutore": "James",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "La zona morta",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2015,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Lavoro",
+    "cognomeAutore": "Suzman",
+    "nomeAutore": "James",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51feBHpc4ES._SL260_.jpg"
+  },
+  {
+    "titolo": "Le avventure di Cipollino",
+    "cognomeAutore": "Rodari",
+    "nomeAutore": "Gianni",
+    "annoLettura": 2003,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Le bugie nel carrello",
+    "cognomeAutore": "Bressanini",
+    "nomeAutore": "Dario",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/419XhZDrsXL._SL260_.jpg"
+  },
+  {
+    "titolo": "Le fondazioni",
+    "cognomeAutore": "Barbetta",
+    "nomeAutore": "Gian Paolo",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51oAVchVVJL._SL260_.jpg"
+  },
+  {
+    "titolo": "Le mie prigioni",
+    "cognomeAutore": "Pellico",
+    "nomeAutore": "Silvio",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/41WAbxtekBL._SL260_.jpg"
+  },
+  {
+    "titolo": "Le mille e una morte",
+    "cognomeAutore": "McIntosh",
+    "nomeAutore": "J.T.",
+    "annoLettura": 2016,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Le porte della percezione",
+    "cognomeAutore": "Huxley",
+    "nomeAutore": "Aldous",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Le storie dell'orrore puro - L'incubo",
+    "cognomeAutore": "Lovecraft",
+    "nomeAutore": "H.P.",
+    "annoLettura": 2009,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Le streghe",
+    "cognomeAutore": "Dahl",
+    "nomeAutore": "Roald",
+    "annoLettura": 2000,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Leonardo Del Vecchio",
+    "cognomeAutore": "Aboulabil",
+    "nomeAutore": "Asmaa",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41uVb5zGIhL._SL260_.jpg"
+  },
+  {
+    "titolo": "Lezioni americane",
+    "cognomeAutore": "Calvino",
+    "nomeAutore": "Italo",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Liberazione animale",
+    "cognomeAutore": "Singer",
+    "nomeAutore": "Peter",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51wdftph4UL._SL260_.jpg"
+  },
+  {
+    "titolo": "ll giorno della civetta",
+    "cognomeAutore": "Sciascia",
+    "nomeAutore": "Leonardo",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Lo cunto de li cunti",
+    "cognomeAutore": "Basile",
+    "nomeAutore": "Giambattista",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Lo scandalo Modigliani",
+    "cognomeAutore": "Follett",
+    "nomeAutore": "Ken",
+    "annoLettura": 2003,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Lo schermo dei sogni",
+    "cognomeAutore": "Albano",
+    "nomeAutore": "Lucilla",
+    "annoLettura": 2014,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Lo straniero misterioso",
+    "cognomeAutore": "Twain",
+    "nomeAutore": "Mark",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Lo strano caso del cane ucciso a mezzanotte",
+    "cognomeAutore": "Haddon",
+    "nomeAutore": "Mark",
+    "annoLettura": 2005,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Lode alle tette",
+    "cognomeAutore": "Baffo",
+    "nomeAutore": "Giorgio",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41Go3t4hPqL._SL260_.jpg"
+  },
+  {
+    "titolo": "LSD, il mio bambino difficile",
+    "cognomeAutore": "Hofman",
+    "nomeAutore": "Albert",
+    "annoLettura": 2007,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Malalingua",
+    "cognomeAutore": "Trifone",
+    "nomeAutore": "Pietro",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41CDO2UzoLL._SL260_.jpg"
+  },
+  {
+    "titolo": "Maledetta Cina",
+    "cognomeAutore": "Rumiz",
+    "nomeAutore": "Paolo",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41oOu4EbquL._SL260_.jpg"
+  },
+  {
+    "titolo": "Manuale del boia",
+    "cognomeAutore": "Duff",
+    "nomeAutore": "Charles",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Margherita Dolcevita",
+    "cognomeAutore": "Benni",
+    "nomeAutore": "Stefano",
+    "annoLettura": 2013,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Martin Eden",
+    "cognomeAutore": "London",
+    "nomeAutore": "Jack",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Memorie di un bevitore",
+    "cognomeAutore": "London",
+    "nomeAutore": "Jack",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Memory Illusion",
+    "cognomeAutore": "Shaw",
+    "nomeAutore": "Julia",
+    "annoLettura": 2016,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Meno dodici",
+    "cognomeAutore": "Piccioni",
+    "nomeAutore": "Pierdante",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/519k3qq6H5L._SL260_.jpg"
+  },
+  {
+    "titolo": "Mi ricordo, sì, io mi ricordo",
+    "cognomeAutore": "Mastroianni",
+    "nomeAutore": "Marcello",
+    "annoLettura": 2013,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Mio fratello rincorre i dinosauri",
+    "cognomeAutore": "Mazzariol",
+    "nomeAutore": "Giacomo",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Miracolo!",
+    "cognomeAutore": "Martigli",
+    "nomeAutore": "Carlo A.",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/516LSEftygL._SL260_.jpg"
+  },
+  {
+    "titolo": "Misery",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Misura per misura",
+    "cognomeAutore": "Shakespeare",
+    "nomeAutore": "William",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Mobbing",
+    "cognomeAutore": "Giuglielmi",
+    "nomeAutore": "Dina",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51VFY4OFz1L._SL260_.jpg"
+  },
+  {
+    "titolo": "Moby Dick",
+    "cognomeAutore": "Melville",
+    "nomeAutore": "Herman",
+    "annoLettura": 2015,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Mondo senza fine",
+    "cognomeAutore": "Follett",
+    "nomeAutore": "Ken",
+    "annoLettura": 2004,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Moshi Moshi",
+    "cognomeAutore": "Yoshimoto",
+    "nomeAutore": "Banana",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Muovete il culo!",
+    "cognomeAutore": "Forchielli",
+    "nomeAutore": "Alberto",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51Kn0TRFhnL._SL260_.jpg"
+  },
+  {
+    "titolo": "Mutilato scappa su gamba rubata",
+    "cognomeAutore": "Stefanato",
+    "nomeAutore": "Paolo",
+    "annoLettura": 2002,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Nato fuori legge",
+    "cognomeAutore": "Noah",
+    "nomeAutore": "Trevor",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/41OkmP1bVnL._SL260_.jpg"
+  },
+  {
+    "titolo": "Nella setta",
+    "cognomeAutore": "Piccinni",
+    "nomeAutore": "Flavia",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51ToIBnwfgL._SL260_.jpg"
+  },
+  {
+    "titolo": "Nelle terre del grande Nord",
+    "cognomeAutore": "London",
+    "nomeAutore": "Jack",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Neuromarketing",
+    "cognomeAutore": "Maxwell",
+    "nomeAutore": "Phil",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/515Nqyh75iL._SL260_.jpg"
+  },
+  {
+    "titolo": "Neuroni specchio",
+    "cognomeAutore": "Craighero",
+    "nomeAutore": "Lalla",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41LHc6+K+hL._SL260_.jpg"
+  },
+  {
+    "titolo": "Niente di vero tranne gli occhi",
+    "cognomeAutore": "Faletti",
+    "nomeAutore": "Giorgio",
+    "annoLettura": 2007,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Ninna nanna",
+    "cognomeAutore": "Palahniuk",
+    "nomeAutore": "Chuck",
+    "annoLettura": 2012,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Norvegian f**k",
+    "cognomeAutore": "Kalvo",
+    "nomeAutore": "Are",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51muxuRlGUL._SL260_.jpg"
+  },
+  {
+    "titolo": "Novecento",
+    "cognomeAutore": "Baricco",
+    "nomeAutore": "Alessandro",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "On writing",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Orlando Furioso",
+    "cognomeAutore": "Calvino",
+    "nomeAutore": "Italo",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Osservazioni sulla tortura",
+    "cognomeAutore": "Verri",
+    "nomeAutore": "Pietro",
+    "annoLettura": 2017,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Otzi, Tutankhamon, Evita Peron",
+    "cognomeAutore": "Zink",
+    "nomeAutore": "Albert",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51yrLmQJ7OL._SL260_.jpg"
+  },
+  {
+    "titolo": "Pablo Escobar: il padrone del male",
+    "cognomeAutore": "Escobar",
+    "nomeAutore": "Juan Pablo",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61O0pfVvtAL._SL260_.jpg"
+  },
+  {
+    "titolo": "Padre ricco, padre povero",
+    "cognomeAutore": "Kiyosaki",
+    "nomeAutore": "Robert T.",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Palomar",
+    "cognomeAutore": "Calvino",
+    "nomeAutore": "Italo",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Pane e tempesta",
+    "cognomeAutore": "Benni",
+    "nomeAutore": "Stefano",
+    "annoLettura": 2015,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Paperdinastia",
+    "cognomeAutore": "Disney",
+    "nomeAutore": "Walt",
+    "annoLettura": 2000,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Paura",
+    "cognomeAutore": "Wright",
+    "nomeAutore": "Richard",
+    "annoLettura": 2014,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Paura e disgusto a Las Vegas",
+    "cognomeAutore": "Thompson",
+    "nomeAutore": "Hunter",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Pensieri lenti e veloci",
+    "cognomeAutore": "Kahnemann",
+    "nomeAutore": "Daniel",
+    "annoLettura": 2018,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Pet sematary",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Peter Pan",
+    "cognomeAutore": "Barrie",
+    "nomeAutore": "James Matthew",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51jCxrMY4uL._SL260_.jpg"
+  },
+  {
+    "titolo": "Pian della tortilla",
+    "cognomeAutore": "Steinbeck",
+    "nomeAutore": "John",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Piccole donne",
+    "cognomeAutore": "Alcoot",
+    "nomeAutore": "L.M.",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Pimp: The story of my life",
+    "cognomeAutore": "Slim",
+    "nomeAutore": "Iceberg",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Pinocchio",
+    "cognomeAutore": "Collodi",
+    "nomeAutore": "Carlo",
+    "annoLettura": 2000,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Pippi Calzelunghe",
+    "cognomeAutore": "Lindgren",
+    "nomeAutore": "Astrid",
+    "annoLettura": 2001,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Pornage",
+    "cognomeAutore": "Costa",
+    "nomeAutore": "Barbara",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41XoK6E7QmL._SL260_.jpg"
+  },
+  {
+    "titolo": "Prima che tu dica pronto",
+    "cognomeAutore": "Calvino",
+    "nomeAutore": "Italo",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Profondo Thrilling",
+    "cognomeAutore": "Argento",
+    "nomeAutore": "Dario",
+    "annoLettura": 2011,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Pulp",
+    "cognomeAutore": "Bukowski",
+    "nomeAutore": "Charles",
+    "annoLettura": 2007,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Quando Alice ruppe lo specchio",
+    "cognomeAutore": "Carroll",
+    "nomeAutore": "Lewis",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Quark economia",
+    "cognomeAutore": "Angela",
+    "nomeAutore": "Piero",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Quiet",
+    "cognomeAutore": "Cain",
+    "nomeAutore": "Susan",
+    "annoLettura": 2016,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Racconti dei saggi pellegrini",
+    "cognomeAutore": "De la Héronniere",
+    "nomeAutore": "Edith",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Ragazzi violenti",
+    "cognomeAutore": "Muratori",
+    "nomeAutore": "Filippo",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41kQN+0C2XL._SL260_.jpg"
+  },
+  {
+    "titolo": "Resurrezione",
+    "cognomeAutore": "Sohl",
+    "nomeAutore": "Jerry",
+    "annoLettura": 2016,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Ribelli",
+    "cognomeAutore": "Hinton",
+    "nomeAutore": "S.E.",
+    "annoLettura": 2005,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Ricco prima delle 8",
+    "cognomeAutore": "Bardolla",
+    "nomeAutore": "Alfio",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51GY1SGJcDL._SL260_.jpg"
+  },
+  {
+    "titolo": "Rituali quotidiani",
+    "cognomeAutore": "Currey",
+    "nomeAutore": "Mason",
+    "annoLettura": 2010,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Rivoluzione",
+    "cognomeAutore": "London",
+    "nomeAutore": "Jack",
+    "annoLettura": 2018,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Robinson Crusoe",
+    "cognomeAutore": "Defoe",
+    "nomeAutore": "Daniel",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61nZ0ci7GuL._SL260_.jpg"
+  },
+  {
+    "titolo": "Rosemary's baby",
+    "cognomeAutore": "Levin",
+    "nomeAutore": "Ira",
+    "annoLettura": 2007,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Saltatempo",
+    "cognomeAutore": "Benni",
+    "nomeAutore": "Stefano",
+    "annoLettura": 2012,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Sangue di vampiro",
+    "cognomeAutore": "King",
+    "nomeAutore": "William",
+    "annoLettura": 2004,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Sbornie sacre, sbornie profane",
+    "cognomeAutore": "Ferlan",
+    "nomeAutore": "Claudio",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51wmf0-L9LL._SL260_.jpg"
+  },
+  {
+    "titolo": "Scelti dalle tenebre",
+    "cognomeAutore": "Rice",
+    "nomeAutore": "Anne",
+    "annoLettura": 2005,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Scrivere le grandi serie tv",
+    "cognomeAutore": "Douglas",
+    "nomeAutore": "Pamela",
+    "annoLettura": 2015,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Se questo è un uomo",
+    "cognomeAutore": "Levi",
+    "nomeAutore": "Primo",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/41CEbJt3xSL._SL260_.jpg"
+  },
+  {
+    "titolo": "Sei personaggi in cerca d’autore",
+    "cognomeAutore": "Pirandello",
+    "nomeAutore": "Luigi",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Sessanta racconti",
+    "cognomeAutore": "Buzzati",
+    "nomeAutore": "Dino",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Shadowhunters: Città di Ossa",
+    "cognomeAutore": "Clare",
+    "nomeAutore": "Cassandra",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Shining",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2004,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Shrek",
+    "cognomeAutore": "Steig",
+    "nomeAutore": "William",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Sigrid e i mondi perduti - La fidanzata del rospo",
+    "cognomeAutore": "Brussolo",
+    "nomeAutore": "Serge",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Smart City",
+    "cognomeAutore": "Dall'O",
+    "nomeAutore": "Giuliano",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51CP-2atVVL._SL260_.jpg"
+  },
+  {
+    "titolo": "Soffocare",
+    "cognomeAutore": "Palahniuk",
+    "nomeAutore": "Chuck",
+    "annoLettura": 2007,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Solitudine digitale",
+    "cognomeAutore": "Spitzer",
+    "nomeAutore": "Manfred",
+    "annoLettura": 2017,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Sono un ottimista globale",
+    "cognomeAutore": "Gates",
+    "nomeAutore": "Bill",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/61IhZs9I8OL._SL260_.jpg"
+  },
+  {
+    "titolo": "Stagioni diverse",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Stai zitta",
+    "cognomeAutore": "Murgia",
+    "nomeAutore": "Michela",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51rLJ+oJjRL._SL260_.jpg"
+  },
+  {
+    "titolo": "Startup di merda",
+    "cognomeAutore": "Moroni",
+    "nomeAutore": "Mario",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41N7melS9aL._SL260_.jpg"
+  },
+  {
+    "titolo": "Stato di paura",
+    "cognomeAutore": "Crichton",
+    "nomeAutore": "Michael",
+    "annoLettura": 2006,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Storia dell'eternità",
+    "cognomeAutore": "Borges",
+    "nomeAutore": "Jorge Louis",
+    "annoLettura": 2018,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Storia della colonna infame",
+    "cognomeAutore": "Manzoni",
+    "nomeAutore": "Alessandro",
+    "annoLettura": 2016,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Storia della vita sulla terra",
+    "cognomeAutore": "Sardella",
+    "nomeAutore": "Raffaele",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51GLQWKVAwL._SL260_.jpg"
+  },
+  {
+    "titolo": "Storia universale dell'infamia",
+    "cognomeAutore": "Borges",
+    "nomeAutore": "Jorge Louis",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Storie di clima",
+    "cognomeAutore": "Barbero",
+    "nomeAutore": "Roberto",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/61hMOrM-WTL._SL260_.jpg"
+  },
+  {
+    "titolo": "Storie di ordinaria follia",
+    "cognomeAutore": "Bukowski",
+    "nomeAutore": "Charles",
+    "annoLettura": 2013,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Strategia armonica di business",
+    "cognomeAutore": "Benedetto",
+    "nomeAutore": "Claudio",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/5156u0vuluL._SL260_.jpg"
+  },
+  {
+    "titolo": "Sulle ali della luce",
+    "cognomeAutore": "Cattaneo",
+    "nomeAutore": "Rossella",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Terra!",
+    "cognomeAutore": "Benni",
+    "nomeAutore": "Stefano",
+    "annoLettura": 2009,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Teste mozze",
+    "cognomeAutore": "Larson",
+    "nomeAutore": "Frances",
+    "annoLettura": 2017,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "The 4-hour workweek",
+    "cognomeAutore": "Ferris",
+    "nomeAutore": "Tim",
+    "annoLettura": 2017,
+    "categoria": "nonFiction",
+    "img": ""
+  },
+  {
+    "titolo": "Trainspotting",
+    "cognomeAutore": "Welsh",
+    "nomeAutore": "Irvine",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Tutte le novelle",
+    "cognomeAutore": "Verga",
+    "nomeAutore": "Giovanni",
+    "annoLettura": 2015,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Tutti i racconti",
+    "cognomeAutore": "Hawthorne",
+    "nomeAutore": "Nathaniel",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Tutti i racconti dell'incubo e del terrore",
+    "cognomeAutore": "Poe",
+    "nomeAutore": "Edgar Allan",
+    "annoLettura": 2017,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Tutti i racconti vol. 1",
+    "cognomeAutore": "Dick",
+    "nomeAutore": "Philp K.",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Ultimo viene il corvo",
+    "cognomeAutore": "Calvino",
+    "nomeAutore": "Italo",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Un amore",
+    "cognomeAutore": "Buzzati",
+    "nomeAutore": "Dino",
+    "annoLettura": 2018,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Uno nessuno e centomila",
+    "cognomeAutore": "Pirandello",
+    "nomeAutore": "Luigi",
+    "annoLettura": 2014,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Uomini e topi",
+    "cognomeAutore": "Steinbeck",
+    "nomeAutore": "John",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Uova fatali",
+    "cognomeAutore": "Bulgakov",
+    "nomeAutore": "Michail",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/51+Gj5J5cvL._SL260_.jpg"
+  },
+  {
+    "titolo": "Uscita per l'inferno",
+    "cognomeAutore": "King",
+    "nomeAutore": "Stephen",
+    "annoLettura": 2008,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Vaffanguru",
+    "cognomeAutore": "Bizzarro",
+    "nomeAutore": "Ka",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41xuaxtmbIS._SL260_.jpg"
+  },
+  {
+    "titolo": "Vedrò Singapore?",
+    "cognomeAutore": "Chiara",
+    "nomeAutore": "Piero",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Vendere e comprare sesso",
+    "cognomeAutore": "Garofalo Geymonat",
+    "nomeAutore": "Giulia",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51NYJKEEnFL._SL260_.jpg"
+  },
+  {
+    "titolo": "Ventimila leghe sotto i mari",
+    "cognomeAutore": "Verne",
+    "nomeAutore": "Jules",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61Pw4TYpsiL._SL260_.jpg"
+  },
+  {
+    "titolo": "Viaggi di Gulliver",
+    "cognomeAutore": "Swift",
+    "nomeAutore": "Jonathan",
+    "annoLettura": 2019,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Viaggiatore del tempo",
+    "cognomeAutore": "Bradbury",
+    "nomeAutore": "Ray",
+    "annoLettura": 2016,
+    "categoria": "fiction",
+    "img": ""
+  },
+  {
+    "titolo": "Viaggio al centro della terra",
+    "cognomeAutore": "Verne",
+    "nomeAutore": "Jules",
+    "annoLettura": 2020,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/618zp2VC-fL._SL260_.jpg"
+  },
+  {
+    "titolo": "Volare senza paura è facile se sai come farlo",
+    "cognomeAutore": "Carr",
+    "nomeAutore": "Allen",
+    "annoLettura": 2020,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51Lx7XWsZ7L._SL260_.jpg"
   }
 ]

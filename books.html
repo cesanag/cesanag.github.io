@@ -20,8 +20,8 @@
       <div class="page--content">
         <h1>Libri</h1>
         <p>
-          Un elenco di tutti i libri cartacei e digitali che ho letto, disposti in ordine alfabetico. Ho
-          escluso dalla lista i libri per bambini (0-10 anni).
+          Un elenco di tutti i libri cartacei e digitali che ho letto, disposti
+          in ordine alfabetico. Ho escluso i libri per bambini (0-10 anni).
         </p>
 
         <input
@@ -64,7 +64,7 @@
             book = document.createElement("li");
             a = document.createElement("a");
             img = document.createElement("img");
-            year = document.createElement("div")
+            year = document.createElement("div");
             // const indexNumber = document.createElement("p");
             title = document.createElement("h3");
             author = document.createElement("div");
@@ -84,7 +84,7 @@
             a.appendChild(year);
 
             // a.appendChild(category);
-            img.src = "img/interest-literature.png";
+            img.src = res.img || "img/interest-literature.png";
             // indexNumber.innerHTML = index;
             title.innerHTML = res.titolo;
             author.innerHTML = `${res.nomeAutore} ${res.cognomeAutore}`;
