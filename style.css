@@ -1,6 +1,5 @@
 :root {
   font-family: "Mulish", sans-serif;
-  /* box-sizing: border-box; */
   margin: 0;
   --grey: #666666;
   --midgrey: #c2c3c9;
@@ -33,7 +32,6 @@ body {
   font-size: 1rem;
 }
 
-/* Style the buttons */
 .btn {
   border: none;
   outline: none;
@@ -42,17 +40,24 @@ body {
   cursor: pointer;
 }
 
-/* Add a light grey background on mouse-over */
 .btn:hover {
   background-color: #ddd;
 }
 
-/* Add a dark background to the active button */
 .btn.active {
   background-color: #666;
   color: white;
 }
 
+.btn-single {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: var(--lightblack);
+  width: 100%;
+  color: var(--lightwhite);
+  cursor: pointer;
+}
 .progress-main {
   position: -webkit-sticky;
   position: sticky;
@@ -102,6 +107,7 @@ body {
   border-radius: 50%;
   z-index: 1;
 }
+
 li + li {
   margin-top: 1rem;
   text-decoration: none;
@@ -121,6 +127,11 @@ a:visited {
   width: 10px;
   height: 10px;
 }
+.icon--big {
+  width: 48px;
+  height: 48px;
+}
+
 main {
   margin: 0;
   margin-left: 20rem;
@@ -356,7 +367,7 @@ main {
 /* Modal Content/Box */
 .modal-content {
   background-color: #fefefe;
-  margin: 15% auto;
+  margin: 5% auto;
   padding: 2rem;
   border: 1px solid #888;
   width: 80%;
@@ -389,6 +400,19 @@ main {
   align-items: center;
 }
 
+input {
+  width: 100%;
+  padding: 0.25rem;
+}
+
+input + input {
+  margin-top: 0.5rem;
+}
+
+input + button {
+  margin-top: 0.5rem;
+}
+
 .searchInput {
   background-image: url("./img/search.svg");
   background-position: 10px 10px;
@@ -415,9 +439,9 @@ main {
 }
 .content--book-img {
   width: 100px;
-  height: 100px;
+  height: 150px;
   /* border-radius: 50%; */
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .content--book-filter {
@@ -438,6 +462,15 @@ main {
   border: 0.25px solid var(--grey);
   max-width: 700px;
   padding: 2rem;
+  position: absolute;
+  background: var(--lightgrey);
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -5%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 iframe {
@@ -458,6 +491,11 @@ iframe {
   position: relative;
   color: black;
 } */
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 
 @media screen and (max-width: 1000px) {
   .navbar {
@@ -488,34 +526,12 @@ iframe {
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 600px) {
-  /* Place the timelime to the left */
-  .timeline::after {
-    left: 31px;
+  .modal-content {
+    margin: 25% auto;
+    width: 90%;
   }
 
-  /* Full-width containers */
-  .container {
-    width: 100%;
-    padding-left: 70px;
-    padding-right: 25px;
-  }
-
-  /* Make sure that all arrows are pointing leftwards */
-  .container::before {
-    left: 60px;
-    border: medium solid white;
-    border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
-  }
-
-  /* Make sure all circles are at the same spot */
-  .left::after,
-  .right::after {
-    left: 15px;
-  }
-
-  /* Make all right containers behave like the left ones */
-  .right {
-    left: 0%;
+  .paywall--card {
+    top: 50%;
   }
 }
