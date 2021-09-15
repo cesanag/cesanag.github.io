@@ -17,7 +17,6 @@ class Navbar extends HTMLElement {
         <h1>Gabriele Cesana</h1>
         <p class="grey">Creative Front End React Developer && Digital media producer. Likes tech, art, design, social psychology.</p>
         </div>
-        <div>
             <div class="navbar--links">
                 <ul>
                     <li><a href="/index.html">Intro</a></li>
@@ -27,7 +26,16 @@ class Navbar extends HTMLElement {
                   
                     </ul>
             </div>
-        </div>
+
+            <div style="display: flex; justify-content: space-evenly">
+            <a target="_blank" href="https://www.linkedin.com/in/gabriele-cesana/">
+              <img class="content--card-img" src="../img/linkedin.svg" />
+            </a>
+            <a  target="_blank" href="mailto:gcesa00@gmail.com">
+              <img class="content--card-img" src="../img/email.svg" />
+            </a>
+            </div>
+  
 
     
     </div>
