@@ -29,7 +29,7 @@ class Navbar extends HTMLElement {
 
             <div style="display: flex; justify-content: space-evenly">
             <a target="_blank" href="https://www.linkedin.com/in/gabriele-cesana/">
-              <img class="content--card-img" src="../img/linkedin.svg" />
+              <img class="content--card-img" src="../img/lkdin.svg" />
             </a>
             <a  target="_blank" href="mailto:gcesa00@gmail.com">
               <img class="content--card-img" src="../img/email.svg" />
