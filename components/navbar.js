@@ -17,15 +17,23 @@ class Navbar extends HTMLElement {
         <h1>Gabriele Cesana</h1>
         <p class="grey">Creative Front End React Developer && Digital media producer. Likes tech, art, design, social psychology.</p>
         </div>
+
+
+                          <div id="lang" style="margin-top: .5rem;margin-right: 1rem;">
+                Linguaggio:
+                <div id="google_translate_element"></div>
+            </div>
+
             <div class="navbar--links">
                 <ul>
                     <li><a href="/index.html">Intro</a></li>
                     <li><a href="/work.html">Lavoro</a></li>
                     <li><a href="/knowledge.html">Conoscenze & Educazione</a></li>
                     <li><a href="/books.html">Libri</a></li>
-                  
                     </ul>
             </div>
+
+
 
             <div style="display: flex; justify-content: space-evenly">
             <a target="_blank" href="https://www.linkedin.com/in/gabriele-cesana/">
@@ -55,9 +63,15 @@ class Navbar extends HTMLElement {
             </div>
     
     
-            <div id="navbar--menu-dropdown" 
+
+
+
+            <div id="navbar--menu-dropdown"
+
                 class="navbar--menu-dropdown navbar--menu-is-visible">
-                    <a href="index.html">
+
+                
+                <a href="index.html">
                         Intro
                     </a>
                     <a href="work.html">
@@ -69,6 +83,20 @@ class Navbar extends HTMLElement {
                     <a href="books.html">
                         Libri
                     </a>
+
+            
+
+                     <div style="display: flex; margin: .5rem; justify-content: space-evenly">
+            <a target="_blank" href="https://www.linkedin.com/in/gabriele-cesana/">
+              <img class="content--card-img" src="../img/lkdin.svg" />
+            </a>
+            <a  target="_blank" href="https://github.com/cesanag/">
+              <img class="content--card-img" src="../img/github.svg" />
+            </a>
+            <a  target="_blank" href="mailto:gcesa00@gmail.com">
+              <img class="content--card-img" src="../img/email.svg" />
+            </a>
+            </div>
 
                     
             </div>

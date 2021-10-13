@@ -12,6 +12,20 @@
   box-sizing: border-box;
 }
 
+
+.translated-ltr {
+  margin: -40px 0;
+}
+
+.goog-logo-link,
+.goog-te-banner-frame {
+  display: none !important;
+}
+
+.goog-te-gadget {
+  color: transparent !important;
+}
+
 body {
   background-color: var(--lightgrey);
   color: var(--lightblack);
@@ -189,7 +203,7 @@ main {
   opacity: 1;
   margin: 0;
   left: 0;
-  top: 5rem;
+  top: 50px;
   width: 100vw;
   z-index: 99999;
   background-color: var(--lightwhite);
