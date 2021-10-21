@@ -12,88 +12,18 @@
     />
     <title>Gabriele Cesana | Home</title>
     <script src="components/navbar.js" async></script>
+     
   </head>
-
-  <div class="navbar" id="desktop">
-    <div>
-      <h1>Gabriele Cesana</h1>
-      <p class="grey">
-        Creative Front End React Developer && Digital media producer. Likes
-        tech, art, design, social psychology.
-      </p>
-    </div>
-
-    <div id="lang" style="margin-top: 0.5rem; margin-right: 1rem">
-      Linguaggio:
-      <div id="google_translate_element"></div>
-    </div>
-
-    <div class="navbar--links">
-      <ul>
-        <li><a href="/index.html">Home</a></li>
-        <li><a href="/work.html">Lavoro</a></li>
-        <li><a href="/knowledge.html">Conoscenze & Educazione</a></li>
-        <li><a href="/books.html">Libri</a></li>
-      </ul>
-    </div>
-
-    <div style="display: flex; justify-content: space-evenly">
-      <a target="_blank" href="https://www.linkedin.com/in/gabriele-cesana/">
-        <img class="content--card-img" src="../img/lkdin.svg" />
-      </a>
-      <a target="_blank" href="https://github.com/cesanag/">
-        <img class="content--card-img" src="../img/github.svg" />
-      </a>
-      <a target="_blank" href="mailto:gcesa00@gmail.com">
-        <img class="content--card-img" src="../img/email.svg" />
-      </a>
-    </div>
-  </div>
-
-  <div class="navbar--mobile" id="mobile">
-    <a
-      style="color: black; text-decoration: none"
-      href="index.html"
-      class="navbar--logo"
-    >
-      <b>Gabriele Cesana</b>
-    </a>
-
-    <div
-      id="navbar--menu-burger"
-      onClick="toggleDropdownMenu()"
-      class="navbar--menu-burger"
-    ></div>
-
-    <div
-      id="navbar--menu-dropdown"
-      class="navbar--menu-dropdown navbar--menu-is-visible"
-    >
-      <a href="index.html"> Home </a>
-      <a href="work.html"> Lavoro </a>
-      <a href="knowledge.html"> Conoscenze & Educazione </a>
-      <a href="books.html"> Libri </a>
-
-      <div style="display: flex; margin: 0.5rem; justify-content: space-evenly">
-        <a target="_blank" href="https://www.linkedin.com/in/gabriele-cesana/">
-          <img class="content--card-img" src="../img/lkdin.svg" />
-        </a>
-        <a target="_blank" href="https://github.com/cesanag/">
-          <img class="content--card-img" src="../img/github.svg" />
-        </a>
-        <a target="_blank" href="mailto:gcesa00@gmail.com">
-          <img class="content--card-img" src="../img/email.svg" />
-        </a>
-      </div>
-    </div>
-  </div>
 
   <body>
     <main>
       <navbar-component></navbar-component>
 
       <div class="threejs-overlay-text">Tocca o muovi il mouse</div>
-      <script type="module">
+      
+
+    </main>
+    <script type="module">
         import * as THREE from "./js/three.module.js";
 
         let camera, scene, renderer;
@@ -211,7 +141,7 @@
         }
       </script>
 
-      <script type="text/javascript">
+     <script type="text/javascript">
         function googleTranslateElementInit() {
           new google.translate.TranslateElement(
             { pageLanguage: "it" },
@@ -224,6 +154,6 @@
         type="text/javascript"
         src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
       ></script>
-    </main>
+
   </body>
 </html>

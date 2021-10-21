@@ -14,17 +14,15 @@ class Navbar extends HTMLElement {
     this.innerHTML = `
     <div class="navbar" id="desktop">
     <div>
+
       <h1>Gabriele Cesana</h1>
+      
       <p class="grey">
         Creative Front End React Developer && Digital media producer. Likes
         tech, art, design, social psychology.
       </p>
     </div>
 
-    <div id="lang" style="margin-top: 0.5rem; margin-right: 1rem">
-      Linguaggio:
-      <div id="google_translate_element"></div>
-    </div>
 
     <div class="navbar--links">
       <ul>
@@ -34,6 +32,8 @@ class Navbar extends HTMLElement {
         <li><a href="/books.html">Libri</a></li>
       </ul>
     </div>
+
+   <div id="google_translate_element"></div>
 
     <div style="display: flex; justify-content: space-evenly">
       <a target="_blank" href="https://www.linkedin.com/in/gabriele-cesana/">

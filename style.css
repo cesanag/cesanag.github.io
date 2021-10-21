@@ -12,7 +12,12 @@
   box-sizing: border-box;
 }
 
-
+.goog-te-combo {
+  border: 2px solid var(--midgrey);
+  padding: .25rem;
+  border-radius: 5px;
+  background-color: var(--lightgrey)
+}
 .translated-ltr {
   margin: -40px 0;
 }
