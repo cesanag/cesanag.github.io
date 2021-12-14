@@ -1,5 +1,109 @@
 [
   {
+    "titolo": "Le zanzare sono tutte puttane",
+    "cognomeAutore": "Tosco",
+    "nomeAutore": "Beppe",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/8109-E8PCVL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "I lettori di libri sono sempre più falsi",
+    "cognomeAutore": "Celati",
+    "nomeAutore": "Gianni",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/41I5RO0FlbL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Che cosa resta dell'onore",
+    "cognomeAutore": "Giardini",
+    "nomeAutore": "Francesca",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/81Av4JjlLNL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "L'acqua",
+    "cognomeAutore": "Massarutto",
+    "nomeAutore": "Antonio",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/61HybYHqw0L._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "La mia avventura nel west",
+    "cognomeAutore": "Twain",
+    "nomeAutore": "Mark",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/81+rP6p4eRL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "titolo": "La saponificatrice di Correggio",
+    "cognomeAutore": "Bracco",
+    "nomeAutore": "Barbara",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/71XINTjRaML._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "titolo": "Pappagalli verdi",
+    "cognomeAutore": "Strada",
+    "nomeAutore": "Gino",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/41p5REtizZL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "titolo": "Le tasse invisibili",
+    "cognomeAutore": "Porro",
+    "nomeAutore": "Nicola",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/71wnVJ6fzmL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "titolo": "Raggio d'oro",
+    "cognomeAutore": "London",
+    "nomeAutore": "Jack",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/81S+E7KxDOL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Shadow & Bones",
+    "cognomeAutore": "Bardugo",
+    "nomeAutore": "Leight",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/71iQLDPZiTS._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Dreams and Dream Stories",
+    "cognomeAutore": "Kingsford",
+    "nomeAutore": "Anna",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/51boAZTOEJL._SY346_.jpg"
+  },
+  {
+    "titolo": "Sepolcro",
+    "cognomeAutore": "Incarbone",
+    "nomeAutore": "Lorenzo",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/81iICRYRdWS._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Oblomov",
+    "cognomeAutore": "Gončarov",
+    "nomeAutore": "Ivan Aleksandrovič",
+    "annoLettura": 2021,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/81TYAgEfSvL._AC_UL320_.jpg"
+  },
+  {
     "titolo": "Andare per ghetti e giudecche",
     "cognomeAutore": "Foa",
     "nomeAutore": "Anna",
