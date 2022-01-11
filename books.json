@@ -1,5 +1,29 @@
 [
   {
+    "titolo": "Tecnobarocco",
+    "cognomeAutore": "Tozzi",
+    "nomeAutore": "Mario",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/71UvwztcfXL._AC_UY218_.jpg"
+  },
+  {
+    "titolo": "Corruzione e anticorruzione",
+    "cognomeAutore": "Cantone",
+    "nomeAutore": "Raffaele",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://images-eu.ssl-images-amazon.com/images/I/41-75dQAKvL._SY264_BO1,204,203,200_QL40_ML2_.jpg"
+  },
+  {
+    "titolo": "L'adozione",
+    "cognomeAutore": "Fadiga",
+    "nomeAutore": "Luigi",
+    "annoLettura": 2021,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/31QhQY64IVL._AC_UY218_.jpg"
+  },
+  {
     "titolo": "Le zanzare sono tutte puttane",
     "cognomeAutore": "Tosco",
     "nomeAutore": "Beppe",
