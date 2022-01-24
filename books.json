@@ -1,5 +1,45 @@
 [
   {
+    "titolo": "Casa di foglie",
+    "cognomeAutore": "Danielewski",
+    "nomeAutore": "Mark Z.",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/71aCDKIATUL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Novella di Cacasenno, figliuolo del semplice Bertoldino",
+    "cognomeAutore": "Croce",
+    "nomeAutore": "Giulio Cesare",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/418l-HsaO6L._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Le piacevoli et ridicolose simplicità di Bertoldino",
+    "cognomeAutore": "Croce",
+    "nomeAutore": "Giulio Cesare",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/71bslcgkBZL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Le sottilissime astutie di Bertoldo",
+    "cognomeAutore": "Croce",
+    "nomeAutore": "Giulio Cesare",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/911sseu22PL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "I segreti di una vita sana e lunga",
+    "cognomeAutore": "Trabucchi",
+    "nomeAutore": "Marco",
+    "annoLettura": 2022,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/611SB0nAs3L._AC_UL320_.jpg"
+  },
+  {
     "titolo": "Tecnobarocco",
     "cognomeAutore": "Tozzi",
     "nomeAutore": "Mario",
