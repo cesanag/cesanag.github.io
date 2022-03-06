@@ -14,9 +14,9 @@
 
 .goog-te-combo {
   border: 2px solid var(--midgrey);
-  padding: .25rem;
+  padding: 0.25rem;
   border-radius: 5px;
-  background-color: var(--lightgrey)
+  background-color: var(--lightgrey);
 }
 .translated-ltr {
   margin: -40px 0;
@@ -453,6 +453,7 @@ input + button {
   min-width: 200px;
 }
 .content--book-title {
+  margin-top: 5px;
   max-width: 200px;
   text-align: center;
 }

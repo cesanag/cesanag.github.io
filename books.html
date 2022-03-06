@@ -45,6 +45,7 @@
             Non-fiction
           </button>
 
+          <button class="btn" onclick="filterBooks('2022')">2022</button>
           <button class="btn" onclick="filterBooks('2021')">2021</button>
           <button class="btn" onclick="filterBooks('2020')">2020</button>
           <button class="btn" onclick="filterBooks('2019')">2019</button>
@@ -73,6 +74,7 @@
             // const indexNumber = document.createElement("p");
             title = document.createElement("h3");
             author = document.createElement("div");
+            author.style = "margin-top:1rem";
             // const category = document.createElement("div");
             book.setAttribute("id", `book-${index}`);
             book.className += `content--book-container content--book-filter ${res.annoLettura} ${res.categoria}`;
@@ -93,7 +95,7 @@
             // indexNumber.innerHTML = index;
             title.innerHTML = res.titolo;
             author.innerHTML = `${res.nomeAutore} ${res.cognomeAutore}`;
-            year.innerHTML = `Letto nel ${res.annoLettura}`;
+            // year.innerHTML = `Letto nel ${res.annoLettura}`;
             // category.innerHTML = `${res.categoria.toUpperCase()}`;
 
             document.getElementById("books").appendChild(book);
@@ -185,7 +187,7 @@
       }
     </script>
 
-     <script type="text/javascript">
+    <script type="text/javascript">
       function googleTranslateElementInit() {
         new google.translate.TranslateElement(
           { pageLanguage: "it" },
@@ -198,6 +200,5 @@
       type="text/javascript"
       src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
     ></script>
-    
   </body>
 </html>

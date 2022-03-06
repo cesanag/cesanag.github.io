@@ -1,5 +1,29 @@
 [
   {
+    "titolo": "Il reggimento parte all'alba",
+    "cognomeAutore": "Buzzati",
+    "nomeAutore": "Dino",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/71QV3WAc4HL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "titolo": "I misteri d'Italia",
+    "cognomeAutore": "Buzzati",
+    "nomeAutore": "Dino",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/81kn8zhmKOL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "titolo": "Il narcisismo",
+    "cognomeAutore": "Semi",
+    "nomeAutore": "Antonio Alberto",
+    "annoLettura": 2022,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/31jnH1mh6cL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
     "titolo": "Casa di foglie",
     "cognomeAutore": "Danielewski",
     "nomeAutore": "Mark Z.",
@@ -1206,6 +1230,14 @@
     "annoLettura": 2020,
     "categoria": "nonFiction",
     "img": "https://m.media-amazon.com/images/I/51Lx7XWsZ7L._SL260_.jpg"
+  },
+  {
+    "titolo": "Il grande libro dell'autosufficienza",
+    "cognomeAutore": "Seymour",
+    "nomeAutore": "John",
+    "annoLettura": 2019,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/81FIp2m2npL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "titolo": "Alice nel paese delle meraviglie",
@@ -2454,6 +2486,14 @@
     "annoLettura": 2011,
     "categoria": "fiction",
     "img": "https://m.media-amazon.com/images/I/519qSh+pd4L._AC_UL260_FMwebp_QL65_.jpg"
+  },
+  {
+    "titolo": "SAS Survival Guide",
+    "cognomeAutore": "Wiseman",
+    "nomeAutore": "John 'Lofty'",
+    "annoLettura": 2010,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/71klubA6zKL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "titolo": "Il cimitero di Praga",
