@@ -1,5 +1,93 @@
 [
   {
+    "titolo": "Altro Viaggio. Divina commedia come romanzo",
+    "cognomeAutore": "Forcella Iascone",
+    "nomeAutore": "Laura",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/71O4K4iqt4L._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Andare per le città ideali",
+    "cognomeAutore": "Isman",
+    "nomeAutore": "Fabio",
+    "annoLettura": 2022,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/81l1uKMYPaL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Un mondo senza rifiuti?",
+    "cognomeAutore": "Massarutto",
+    "nomeAutore": "Antonio",
+    "annoLettura": 2022,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/61eJU-4ByuL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Non è facile essere ebreo",
+    "cognomeAutore": "Calimani",
+    "nomeAutore": "Riccardo",
+    "annoLettura": 2022,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/71AFI810siL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Shadowhunters: Città di cenere",
+    "cognomeAutore": "Clare",
+    "nomeAutore": "Cassandra",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/719d4QTHZkL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Dire mai e altri racconti",
+    "cognomeAutore": "Wallace",
+    "nomeAutore": "David Foster",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/81vKGDY1M2L._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Confessioni di un oppiomane",
+    "cognomeAutore": "De Quincey",
+    "nomeAutore": "Thomas",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/31KoR5li8qL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Tempo di uccidere",
+    "cognomeAutore": "Flaiano",
+    "nomeAutore": "Ennio",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/61lKien5fWL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Malawi, non finirà mai",
+    "cognomeAutore": "Mauri",
+    "nomeAutore": "Roberto",
+    "annoLettura": 2022,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/516dIe5Tv1L._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Marussia, leggenda ucraina",
+    "cognomeAutore": "Wovzog",
+    "nomeAutore": "Marco",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/71BndDNkhwL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Il reggimento parte all'alba",
+    "cognomeAutore": "Buzzati",
+    "nomeAutore": "Dino",
+    "annoLettura": 2022,
+    "categoria": "fiction",
+    "img": "https://m.media-amazon.com/images/I/71QV3WAc4HL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
     "titolo": "Il reggimento parte all'alba",
     "cognomeAutore": "Buzzati",
     "nomeAutore": "Dino",
