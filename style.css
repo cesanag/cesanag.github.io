@@ -251,6 +251,7 @@ main {
 .page--content {
   max-width: 1000px;
   margin: 5rem auto;
+  margin-left: 2rem;
 }
 
 .grey {
@@ -258,9 +259,8 @@ main {
 }
 
 .content--card-wrap {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   margin-bottom: 2rem;
 }
 .content--dream-wrap {
@@ -551,7 +551,16 @@ iframe {
     width: 90%;
   }
 
+  .content--card-wrap {
+    grid-template-columns: 1fr;
+  }
+
   .paywall--card {
     top: 50%;
+  }
+
+  .content--book-img {
+    width: 200px;
+    height: auto;
   }
 }

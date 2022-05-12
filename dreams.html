@@ -10,10 +10,8 @@
       href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&amp;display=swap"
       rel="stylesheet"
     />
-    <title>Libri | Gabriele Cesana</title>
+    <title>Sogni | Gabriele Cesana</title>
     <script src="components/navbar.js" async></script>
-    <script src="components/scroll-indicator.js" async></script>
-    <script src="js/confetti.js" async></script>
   </head>
 
   <body>
@@ -22,38 +20,15 @@
       <scrollindicator-component></scrollindicator-component>
 
       <div class="page--content">
-        <h1>Libri</h1>
+        <h1>Sogni</h1>
         <p>
-          Un elenco dei libri che ho letto (cartacei, digitali, audiolibri),
-          disposti in ordine cronologico.
+          Un elenco di tutti i sogni che ho fatto dall'età di 12 anni, disposti
+          in ordine cronologico.
         </p>
 
-        <input
-          class="searchInput"
-          type="text"
-          id="searchBooks"
-          onkeyup="filterTitle()"
-          placeholder="Cerca per titolo o autore"
-        />
-        <div id="myBtnContainer">
-          <button class="btn active" onclick="filterBooks('all')">
-            Mostra tutti
-          </button>
-          <button class="btn" onclick="filterBooks('fiction')">Fiction</button>
-          <button class="btn" onclick="filterBooks('nonFiction')">
-            Non-fiction
-          </button>
-
-          <button class="btn" onclick="filterBooks('2022')">2022</button>
-          <button class="btn" onclick="filterBooks('2021')">2021</button>
-          <button class="btn" onclick="filterBooks('2020')">2020</button>
-          <button class="btn" onclick="filterBooks('2019')">2019</button>
-          <button class="btn" onclick="filterBooks('2018')">2018</button>
-          <button class="btn" onclick="filterBooks('2017')">2017</button>
-        </div>
-        <p class="grey" id="totalBooks"></p>
-
-        <ul id="books" class="content--card-wrap"></ul>
+        <a href="https://sogni.netlify.app/"
+          ><button class="btn">Leggi</button></a
+        >
       </div>
     </main>
 

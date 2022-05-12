@@ -30,6 +30,7 @@ class Navbar extends HTMLElement {
         <li><a href="/work.html">Lavoro</a></li>
         <li><a href="/knowledge.html">Conoscenze & Educazione</a></li>
         <li><a href="/books.html">Libri</a></li>
+        <li><a href="/dreams.html">Sogni</a></li>
       </ul>
     </div>
 
@@ -71,6 +72,7 @@ class Navbar extends HTMLElement {
       <a href="work.html"> Lavoro </a>
       <a href="knowledge.html"> Conoscenze & Educazione </a>
       <a href="books.html"> Libri </a>
+      <a href="dreams.html"> Sogni </a>
 
       <div style="display: flex; margin: 0.5rem; justify-content: space-evenly">
         <a target="_blank" href="https://www.linkedin.com/in/gabriele-cesana/">

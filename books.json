@@ -1,5 +1,37 @@
 [
   {
+    "titolo": "#Datastories",
+    "cognomeAutore": "Avallone",
+    "nomeAutore": "Alice",
+    "annoLettura": 2022,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/71x3iJEZNBL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Abitare sostenibile",
+    "cognomeAutore": "Dall'O",
+    "nomeAutore": "Giuliano",
+    "annoLettura": 2022,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/31tN1SrE2IL._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "La filosofia non è una barba",
+    "cognomeAutore": "Saudino",
+    "nomeAutore": "Tobias",
+    "annoLettura": 2022,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/81gfoZvYC1L._AC_UL320_.jpg"
+  },
+  {
+    "titolo": "Ultra",
+    "cognomeAutore": "Jones",
+    "nomeAutore": "Tobias",
+    "annoLettura": 2022,
+    "categoria": "nonFiction",
+    "img": "https://m.media-amazon.com/images/I/61niIN9nSVL._AC_UL320_.jpg"
+  },
+  {
     "titolo": "Altro Viaggio. Divina commedia come romanzo",
     "cognomeAutore": "Forcella Iascone",
     "nomeAutore": "Laura",
