@@ -30,7 +30,7 @@ class Navbar extends HTMLElement {
         <li><a href="/work.html">Lavoro</a></li>
         <li><a href="/knowledge.html">Conoscenze & Educazione</a></li>
         <li><a href="/books.html">Libri</a></li>
-        <li><a href="/dreams.html">Sogni</a></li>
+        <li><a href="/dreams.html">Sogni</a><img class="icon"src="/img/lock.svg"/></li>
       </ul>
     </div>
 
@@ -68,11 +68,13 @@ class Navbar extends HTMLElement {
       id="navbar--menu-dropdown"
       class="navbar--menu-dropdown navbar--menu-is-visible"
     >
+    
       <a href="index.html"> Home </a>
       <a href="work.html"> Lavoro </a>
       <a href="knowledge.html"> Conoscenze & Educazione </a>
       <a href="books.html"> Libri </a>
       <a href="dreams.html"> Sogni </a>
+      
 
       <div style="display: flex; margin: 0.5rem; justify-content: space-evenly">
         <a target="_blank" href="https://www.linkedin.com/in/gabriele-cesana/">
